@@ -1,0 +1,1797 @@
+[dwgsim_core] chr1 length: 248956422
+[dwgsim_core] chr10 length: 133797422
+[dwgsim_core] chr11 length: 135086622
+[dwgsim_core] chr11_KI270721v1_random length: 100316
+[dwgsim_core] chr12 length: 133275309
+[dwgsim_core] chr13 length: 114364328
+[dwgsim_core] chr14 length: 107043718
+[dwgsim_core] chr14_GL000009v2_random length: 201709
+[dwgsim_core] chr14_GL000225v1_random length: 211173
+[dwgsim_core] chr14_KI270722v1_random length: 194050
+[dwgsim_core] chr14_GL000194v1_random length: 191469
+[dwgsim_core] chr14_KI270723v1_random length: 38115
+[dwgsim_core] chr14_KI270724v1_random length: 39555
+[dwgsim_core] chr14_KI270725v1_random length: 172810
+[dwgsim_core] chr14_KI270726v1_random length: 43739
+[dwgsim_core] chr15 length: 101991189
+[dwgsim_core] chr15_KI270727v1_random length: 448248
+[dwgsim_core] chr16 length: 90338345
+[dwgsim_core] chr16_KI270728v1_random length: 1872759
+[dwgsim_core] chr17 length: 83257441
+[dwgsim_core] chr17_GL000205v2_random length: 185591
+[dwgsim_core] chr17_KI270729v1_random length: 280839
+[dwgsim_core] chr17_KI270730v1_random length: 112551
+[dwgsim_core] chr18 length: 80373285
+[dwgsim_core] chr19 length: 58617616
+[dwgsim_core] chr1_KI270706v1_random length: 175055
+[dwgsim_core] chr1_KI270707v1_random length: 32032
+[dwgsim_core] chr1_KI270708v1_random length: 127682
+[dwgsim_core] chr1_KI270709v1_random length: 66860
+[dwgsim_core] chr1_KI270710v1_random length: 40176
+[dwgsim_core] chr1_KI270711v1_random length: 42210
+[dwgsim_core] chr1_KI270712v1_random length: 176043
+[dwgsim_core] chr1_KI270713v1_random length: 40745
+[dwgsim_core] chr1_KI270714v1_random length: 41717
+[dwgsim_core] chr2 length: 242193529
+[dwgsim_core] chr20 length: 64444167
+[dwgsim_core] chr21 length: 46709983
+[dwgsim_core] chr22 length: 50818468
+[dwgsim_core] chr22_KI270731v1_random length: 150754
+[dwgsim_core] chr22_KI270732v1_random length: 41543
+[dwgsim_core] chr22_KI270733v1_random length: 179772
+[dwgsim_core] chr22_KI270734v1_random length: 165050
+[dwgsim_core] chr22_KI270735v1_random length: 42811
+[dwgsim_core] chr22_KI270736v1_random length: 181920
+[dwgsim_core] chr22_KI270737v1_random length: 103838
+[dwgsim_core] chr22_KI270738v1_random length: 99375
+[dwgsim_core] chr22_KI270739v1_random length: 73985
+[dwgsim_core] chr2_KI270715v1_random length: 161471
+[dwgsim_core] chr2_KI270716v1_random length: 153799
+[dwgsim_core] chr3 length: 198295559
+[dwgsim_core] chr3_GL000221v1_random length: 155397
+[dwgsim_core] chr4 length: 190214555
+[dwgsim_core] chr4_GL000008v2_random length: 209709
+[dwgsim_core] chr5 length: 181538259
+[dwgsim_core] chr5_GL000208v1_random length: 92689
+[dwgsim_core] chr6 length: 170805979
+[dwgsim_core] chr7 length: 159345973
+[dwgsim_core] chr8 length: 145138636
+[dwgsim_core] chr9 length: 138394717
+[dwgsim_core] chr9_KI270717v1_random length: 40062
+[dwgsim_core] chr9_KI270718v1_random length: 38054
+[dwgsim_core] chr9_KI270719v1_random length: 176845
+[dwgsim_core] chr9_KI270720v1_random length: 39050
+[dwgsim_core] chr1_KI270762v1_alt length: 354444
+[dwgsim_core] chr1_KI270766v1_alt length: 256271
+[dwgsim_core] chr1_KI270760v1_alt length: 109528
+[dwgsim_core] chr1_KI270765v1_alt length: 185285
+[dwgsim_core] chr1_GL383518v1_alt length: 182439
+[dwgsim_core] chr1_GL383519v1_alt length: 110268
+[dwgsim_core] chr1_GL383520v2_alt length: 366580
+[dwgsim_core] chr1_KI270764v1_alt length: 50258
+[dwgsim_core] chr1_KI270763v1_alt length: 911658
+[dwgsim_core] chr1_KI270759v1_alt length: 425601
+[dwgsim_core] chr1_KI270761v1_alt length: 165834
+[dwgsim_core] chr2_KI270770v1_alt length: 136240
+[dwgsim_core] chr2_KI270773v1_alt length: 70887
+[dwgsim_core] chr2_KI270774v1_alt length: 223625
+[dwgsim_core] chr2_KI270769v1_alt length: 120616
+[dwgsim_core] chr2_GL383521v1_alt length: 143390
+[dwgsim_core] chr2_KI270772v1_alt length: 133041
+[dwgsim_core] chr2_KI270775v1_alt length: 138019
+[dwgsim_core] chr2_KI270771v1_alt length: 110395
+[dwgsim_core] chr2_KI270768v1_alt length: 110099
+[dwgsim_core] chr2_GL582966v2_alt length: 96131
+[dwgsim_core] chr2_GL383522v1_alt length: 123821
+[dwgsim_core] chr2_KI270776v1_alt length: 174166
+[dwgsim_core] chr2_KI270767v1_alt length: 161578
+[dwgsim_core] chr3_JH636055v2_alt length: 173151
+[dwgsim_core] chr3_KI270783v1_alt length: 109187
+[dwgsim_core] chr3_KI270780v1_alt length: 224108
+[dwgsim_core] chr3_GL383526v1_alt length: 180671
+[dwgsim_core] chr3_KI270777v1_alt length: 173649
+[dwgsim_core] chr3_KI270778v1_alt length: 248252
+[dwgsim_core] chr3_KI270781v1_alt length: 113034
+[dwgsim_core] chr3_KI270779v1_alt length: 205312
+[dwgsim_core] chr3_KI270782v1_alt length: 162429
+[dwgsim_core] chr3_KI270784v1_alt length: 184404
+[dwgsim_core] chr4_KI270790v1_alt length: 220246
+[dwgsim_core] chr4_GL383528v1_alt length: 376187
+[dwgsim_core] chr4_KI270787v1_alt length: 111943
+[dwgsim_core] chr4_GL000257v2_alt length: 586476
+[dwgsim_core] chr4_KI270788v1_alt length: 158965
+[dwgsim_core] chr4_GL383527v1_alt length: 164536
+[dwgsim_core] chr4_KI270785v1_alt length: 119912
+[dwgsim_core] chr4_KI270789v1_alt length: 205944
+[dwgsim_core] chr4_KI270786v1_alt length: 244096
+[dwgsim_core] chr5_KI270793v1_alt length: 126136
+[dwgsim_core] chr5_KI270792v1_alt length: 179043
+[dwgsim_core] chr5_KI270791v1_alt length: 195710
+[dwgsim_core] chr5_GL383532v1_alt length: 82728
+[dwgsim_core] chr5_GL949742v1_alt length: 226852
+[dwgsim_core] chr5_KI270794v1_alt length: 164558
+[dwgsim_core] chr5_GL339449v2_alt length: 1612928
+[dwgsim_core] chr5_GL383530v1_alt length: 101241
+[dwgsim_core] chr5_KI270796v1_alt length: 172708
+[dwgsim_core] chr5_GL383531v1_alt length: 173459
+[dwgsim_core] chr5_KI270795v1_alt length: 131892
+[dwgsim_core] chr6_GL000250v2_alt length: 4672374
+[dwgsim_core] chr6_KI270800v1_alt length: 175808
+[dwgsim_core] chr6_KI270799v1_alt length: 152148
+[dwgsim_core] chr6_GL383533v1_alt length: 124736
+[dwgsim_core] chr6_KI270801v1_alt length: 870480
+[dwgsim_core] chr6_KI270802v1_alt length: 75005
+[dwgsim_core] chr6_KB021644v2_alt length: 185823
+[dwgsim_core] chr6_KI270797v1_alt length: 197536
+[dwgsim_core] chr6_KI270798v1_alt length: 271782
+[dwgsim_core] chr7_KI270804v1_alt length: 157952
+[dwgsim_core] chr7_KI270809v1_alt length: 209586
+[dwgsim_core] chr7_KI270806v1_alt length: 158166
+[dwgsim_core] chr7_GL383534v2_alt length: 119183
+[dwgsim_core] chr7_KI270803v1_alt length: 1111570
+[dwgsim_core] chr7_KI270808v1_alt length: 271455
+[dwgsim_core] chr7_KI270807v1_alt length: 126434
+[dwgsim_core] chr7_KI270805v1_alt length: 209988
+[dwgsim_core] chr8_KI270818v1_alt length: 145606
+[dwgsim_core] chr8_KI270812v1_alt length: 282736
+[dwgsim_core] chr8_KI270811v1_alt length: 292436
+[dwgsim_core] chr8_KI270821v1_alt length: 985506
+[dwgsim_core] chr8_KI270813v1_alt length: 300230
+[dwgsim_core] chr8_KI270822v1_alt length: 624492
+[dwgsim_core] chr8_KI270814v1_alt length: 141812
+[dwgsim_core] chr8_KI270810v1_alt length: 374415
+[dwgsim_core] chr8_KI270819v1_alt length: 133535
+[dwgsim_core] chr8_KI270820v1_alt length: 36640
+[dwgsim_core] chr8_KI270817v1_alt length: 158983
+[dwgsim_core] chr8_KI270816v1_alt length: 305841
+[dwgsim_core] chr8_KI270815v1_alt length: 132244
+[dwgsim_core] chr9_GL383539v1_alt length: 162988
+[dwgsim_core] chr9_GL383540v1_alt length: 71551
+[dwgsim_core] chr9_GL383541v1_alt length: 171286
+[dwgsim_core] chr9_GL383542v1_alt length: 60032
+[dwgsim_core] chr9_KI270823v1_alt length: 439082
+[dwgsim_core] chr10_GL383545v1_alt length: 179254
+[dwgsim_core] chr10_KI270824v1_alt length: 181496
+[dwgsim_core] chr10_GL383546v1_alt length: 309802
+[dwgsim_core] chr10_KI270825v1_alt length: 188315
+[dwgsim_core] chr11_KI270832v1_alt length: 210133
+[dwgsim_core] chr11_KI270830v1_alt length: 177092
+[dwgsim_core] chr11_KI270831v1_alt length: 296895
+[dwgsim_core] chr11_KI270829v1_alt length: 204059
+[dwgsim_core] chr11_GL383547v1_alt length: 154407
+[dwgsim_core] chr11_JH159136v1_alt length: 200998
+[dwgsim_core] chr11_JH159137v1_alt length: 191409
+[dwgsim_core] chr11_KI270827v1_alt length: 67707
+[dwgsim_core] chr11_KI270826v1_alt length: 186169
+[dwgsim_core] chr12_GL877875v1_alt length: 167313
+[dwgsim_core] chr12_GL877876v1_alt length: 408271
+[dwgsim_core] chr12_KI270837v1_alt length: 40090
+[dwgsim_core] chr12_GL383549v1_alt length: 120804
+[dwgsim_core] chr12_KI270835v1_alt length: 238139
+[dwgsim_core] chr12_GL383550v2_alt length: 169178
+[dwgsim_core] chr12_GL383552v1_alt length: 138655
+[dwgsim_core] chr12_GL383553v2_alt length: 152874
+[dwgsim_core] chr12_KI270834v1_alt length: 119498
+[dwgsim_core] chr12_GL383551v1_alt length: 184319
+[dwgsim_core] chr12_KI270833v1_alt length: 76061
+[dwgsim_core] chr12_KI270836v1_alt length: 56134
+[dwgsim_core] chr13_KI270840v1_alt length: 191684
+[dwgsim_core] chr13_KI270839v1_alt length: 180306
+[dwgsim_core] chr13_KI270843v1_alt length: 103832
+[dwgsim_core] chr13_KI270841v1_alt length: 169134
+[dwgsim_core] chr13_KI270838v1_alt length: 306913
+[dwgsim_core] chr13_KI270842v1_alt length: 37287
+[dwgsim_core] chr14_KI270844v1_alt length: 322166
+[dwgsim_core] chr14_KI270847v1_alt length: 1511111
+[dwgsim_core] chr14_KI270845v1_alt length: 180703
+[dwgsim_core] chr14_KI270846v1_alt length: 1351393
+[dwgsim_core] chr15_KI270852v1_alt length: 478999
+[dwgsim_core] chr15_KI270851v1_alt length: 263054
+[dwgsim_core] chr15_KI270848v1_alt length: 327382
+[dwgsim_core] chr15_GL383554v1_alt length: 296527
+[dwgsim_core] chr15_KI270849v1_alt length: 244917
+[dwgsim_core] chr15_GL383555v2_alt length: 388773
+[dwgsim_core] chr15_KI270850v1_alt length: 430880
+[dwgsim_core] chr16_KI270854v1_alt length: 134193
+[dwgsim_core] chr16_KI270856v1_alt length: 63982
+[dwgsim_core] chr16_KI270855v1_alt length: 232857
+[dwgsim_core] chr16_KI270853v1_alt length: 2659700
+[dwgsim_core] chr16_GL383556v1_alt length: 192462
+[dwgsim_core] chr16_GL383557v1_alt length: 89672
+[dwgsim_core] chr17_GL383563v3_alt length: 375691
+[dwgsim_core] chr17_KI270862v1_alt length: 391357
+[dwgsim_core] chr17_KI270861v1_alt length: 196688
+[dwgsim_core] chr17_KI270857v1_alt length: 2877074
+[dwgsim_core] chr17_JH159146v1_alt length: 278131
+[dwgsim_core] chr17_JH159147v1_alt length: 70345
+[dwgsim_core] chr17_GL383564v2_alt length: 133151
+[dwgsim_core] chr17_GL000258v2_alt length: 1821992
+[dwgsim_core] chr17_GL383565v1_alt length: 223995
+[dwgsim_core] chr17_KI270858v1_alt length: 235827
+[dwgsim_core] chr17_KI270859v1_alt length: 108763
+[dwgsim_core] chr17_GL383566v1_alt length: 90219
+[dwgsim_core] chr17_KI270860v1_alt length: 178921
+[dwgsim_core] chr18_KI270864v1_alt length: 111737
+[dwgsim_core] chr18_GL383567v1_alt length: 289831
+[dwgsim_core] chr18_GL383570v1_alt length: 164789
+[dwgsim_core] chr18_GL383571v1_alt length: 198278
+[dwgsim_core] chr18_GL383568v1_alt length: 104552
+[dwgsim_core] chr18_GL383569v1_alt length: 167950
+[dwgsim_core] chr18_GL383572v1_alt length: 159547
+[dwgsim_core] chr18_KI270863v1_alt length: 167999
+[dwgsim_core] chr19_KI270868v1_alt length: 61734
+[dwgsim_core] chr19_KI270865v1_alt length: 52969
+[dwgsim_core] chr19_GL383573v1_alt length: 385657
+[dwgsim_core] chr19_GL383575v2_alt length: 170222
+[dwgsim_core] chr19_GL383576v1_alt length: 188024
+[dwgsim_core] chr19_GL383574v1_alt length: 155864
+[dwgsim_core] chr19_KI270866v1_alt length: 43156
+[dwgsim_core] chr19_KI270867v1_alt length: 233762
+[dwgsim_core] chr19_GL949746v1_alt length: 987716
+[dwgsim_core] chr20_GL383577v2_alt length: 128386
+[dwgsim_core] chr20_KI270869v1_alt length: 118774
+[dwgsim_core] chr20_KI270871v1_alt length: 58661
+[dwgsim_core] chr20_KI270870v1_alt length: 183433
+[dwgsim_core] chr21_GL383578v2_alt length: 63917
+[dwgsim_core] chr21_KI270874v1_alt length: 166743
+[dwgsim_core] chr21_KI270873v1_alt length: 143900
+[dwgsim_core] chr21_GL383579v2_alt length: 201197
+[dwgsim_core] chr21_GL383580v2_alt length: 74653
+[dwgsim_core] chr21_GL383581v2_alt length: 116689
+[dwgsim_core] chr21_KI270872v1_alt length: 82692
+[dwgsim_core] chr22_KI270875v1_alt length: 259914
+[dwgsim_core] chr22_KI270878v1_alt length: 186262
+[dwgsim_core] chr22_KI270879v1_alt length: 304135
+[dwgsim_core] chr22_KI270876v1_alt length: 263666
+[dwgsim_core] chr22_KI270877v1_alt length: 101331
+[dwgsim_core] chr22_GL383583v2_alt length: 96924
+[dwgsim_core] chr22_GL383582v2_alt length: 162811
+[dwgsim_core] chrX_KI270880v1_alt length: 284869
+[dwgsim_core] chrX_KI270881v1_alt length: 144206
+[dwgsim_core] chr19_KI270882v1_alt length: 248807
+[dwgsim_core] chr19_KI270883v1_alt length: 170399
+[dwgsim_core] chr19_KI270884v1_alt length: 157053
+[dwgsim_core] chr19_KI270885v1_alt length: 171027
+[dwgsim_core] chr19_KI270886v1_alt length: 204239
+[dwgsim_core] chr19_KI270887v1_alt length: 209512
+[dwgsim_core] chr19_KI270888v1_alt length: 155532
+[dwgsim_core] chr19_KI270889v1_alt length: 170698
+[dwgsim_core] chr19_KI270890v1_alt length: 184499
+[dwgsim_core] chr19_KI270891v1_alt length: 170680
+[dwgsim_core] chr1_KI270892v1_alt length: 162212
+[dwgsim_core] chr2_KI270894v1_alt length: 214158
+[dwgsim_core] chr2_KI270893v1_alt length: 161218
+[dwgsim_core] chr3_KI270895v1_alt length: 162896
+[dwgsim_core] chr4_KI270896v1_alt length: 378547
+[dwgsim_core] chr5_KI270897v1_alt length: 1144418
+[dwgsim_core] chr5_KI270898v1_alt length: 130957
+[dwgsim_core] chr6_GL000251v2_alt length: 4795265
+[dwgsim_core] chr7_KI270899v1_alt length: 190869
+[dwgsim_core] chr8_KI270901v1_alt length: 136959
+[dwgsim_core] chr8_KI270900v1_alt length: 318687
+[dwgsim_core] chr11_KI270902v1_alt length: 106711
+[dwgsim_core] chr11_KI270903v1_alt length: 214625
+[dwgsim_core] chr12_KI270904v1_alt length: 572349
+[dwgsim_core] chr15_KI270906v1_alt length: 196384
+[dwgsim_core] chr15_KI270905v1_alt length: 5161414
+[dwgsim_core] chr17_KI270907v1_alt length: 137721
+[dwgsim_core] chr17_KI270910v1_alt length: 157099
+[dwgsim_core] chr17_KI270909v1_alt length: 325800
+[dwgsim_core] chr17_JH159148v1_alt length: 88070
+[dwgsim_core] chr17_KI270908v1_alt length: 1423190
+[dwgsim_core] chr18_KI270912v1_alt length: 174061
+[dwgsim_core] chr18_KI270911v1_alt length: 157710
+[dwgsim_core] chr19_GL949747v2_alt length: 729520
+[dwgsim_core] chr22_KB663609v1_alt length: 74013
+[dwgsim_core] chrX_KI270913v1_alt length: 274009
+[dwgsim_core] chr19_KI270914v1_alt length: 205194
+[dwgsim_core] chr19_KI270915v1_alt length: 170665
+[dwgsim_core] chr19_KI270916v1_alt length: 184516
+[dwgsim_core] chr19_KI270917v1_alt length: 190932
+[dwgsim_core] chr19_KI270918v1_alt length: 123111
+[dwgsim_core] chr19_KI270919v1_alt length: 170701
+[dwgsim_core] chr19_KI270920v1_alt length: 198005
+[dwgsim_core] chr19_KI270921v1_alt length: 282224
+[dwgsim_core] chr19_KI270922v1_alt length: 187935
+[dwgsim_core] chr19_KI270923v1_alt length: 189352
+[dwgsim_core] chr3_KI270924v1_alt length: 166540
+[dwgsim_core] chr4_KI270925v1_alt length: 555799
+[dwgsim_core] chr6_GL000252v2_alt length: 4604811
+[dwgsim_core] chr8_KI270926v1_alt length: 229282
+[dwgsim_core] chr11_KI270927v1_alt length: 218612
+[dwgsim_core] chr19_GL949748v2_alt length: 1064304
+[dwgsim_core] chr22_KI270928v1_alt length: 176103
+[dwgsim_core] chr19_KI270929v1_alt length: 186203
+[dwgsim_core] chr19_KI270930v1_alt length: 200773
+[dwgsim_core] chr19_KI270931v1_alt length: 170148
+[dwgsim_core] chr19_KI270932v1_alt length: 215732
+[dwgsim_core] chr19_KI270933v1_alt length: 170537
+[dwgsim_core] chr19_GL000209v2_alt length: 177381
+[dwgsim_core] chr3_KI270934v1_alt length: 163458
+[dwgsim_core] chr6_GL000253v2_alt length: 4677643
+[dwgsim_core] chr19_GL949749v2_alt length: 1091841
+[dwgsim_core] chr3_KI270935v1_alt length: 197351
+[dwgsim_core] chr6_GL000254v2_alt length: 4827813
+[dwgsim_core] chr19_GL949750v2_alt length: 1066390
+[dwgsim_core] chr3_KI270936v1_alt length: 164170
+[dwgsim_core] chr6_GL000255v2_alt length: 4606388
+[dwgsim_core] chr19_GL949751v2_alt length: 1002683
+[dwgsim_core] chr3_KI270937v1_alt length: 165607
+[dwgsim_core] chr6_GL000256v2_alt length: 4929269
+[dwgsim_core] chr19_GL949752v1_alt length: 987100
+[dwgsim_core] chr6_KI270758v1_alt length: 76752
+[dwgsim_core] chr19_GL949753v2_alt length: 796479
+[dwgsim_core] chr19_KI270938v1_alt length: 1066800
+[dwgsim_core] chrM length: 16569
+[dwgsim_core] chrUn_KI270302v1 length: 2274
+[dwgsim_core] chrUn_KI270304v1 length: 2165
+[dwgsim_core] chrUn_KI270303v1 length: 1942
+[dwgsim_core] chrUn_KI270305v1 length: 1472
+[dwgsim_core] chrUn_KI270322v1 length: 21476
+[dwgsim_core] chrUn_KI270320v1 length: 4416
+[dwgsim_core] chrUn_KI270310v1 length: 1201
+[dwgsim_core] chrUn_KI270316v1 length: 1444
+[dwgsim_core] chrUn_KI270315v1 length: 2276
+[dwgsim_core] chrUn_KI270312v1 length: 998
+[dwgsim_core] chrUn_KI270311v1 length: 12399
+[dwgsim_core] chrUn_KI270317v1 length: 37690
+[dwgsim_core] chrUn_KI270412v1 length: 1179
+[dwgsim_core] chrUn_KI270411v1 length: 2646
+[dwgsim_core] chrUn_KI270414v1 length: 2489
+[dwgsim_core] chrUn_KI270419v1 length: 1029
+[dwgsim_core] chrUn_KI270418v1 length: 2145
+[dwgsim_core] chrUn_KI270420v1 length: 2321
+[dwgsim_core] chrUn_KI270424v1 length: 2140
+[dwgsim_core] chrUn_KI270417v1 length: 2043
+[dwgsim_core] chrUn_KI270422v1 length: 1445
+[dwgsim_core] chrUn_KI270423v1 length: 981
+[dwgsim_core] chrUn_KI270425v1 length: 1884
+[dwgsim_core] chrUn_KI270429v1 length: 1361
+[dwgsim_core] chrUn_KI270442v1 length: 392061
+[dwgsim_core] chrUn_KI270466v1 length: 1233
+[dwgsim_core] chrUn_KI270465v1 length: 1774
+[dwgsim_core] chrUn_KI270467v1 length: 3920
+[dwgsim_core] chrUn_KI270435v1 length: 92983
+[dwgsim_core] chrUn_KI270438v1 length: 112505
+[dwgsim_core] chrUn_KI270468v1 length: 4055
+[dwgsim_core] chrUn_KI270510v1 length: 2415
+[dwgsim_core] chrUn_KI270509v1 length: 2318
+[dwgsim_core] chrUn_KI270518v1 length: 2186
+[dwgsim_core] chrUn_KI270508v1 length: 1951
+[dwgsim_core] chrUn_KI270516v1 length: 1300
+[dwgsim_core] chrUn_KI270512v1 length: 22689
+[dwgsim_core] chrUn_KI270519v1 length: 138126
+[dwgsim_core] chrUn_KI270522v1 length: 5674
+[dwgsim_core] chrUn_KI270511v1 length: 8127
+[dwgsim_core] chrUn_KI270515v1 length: 6361
+[dwgsim_core] chrUn_KI270507v1 length: 5353
+[dwgsim_core] chrUn_KI270517v1 length: 3253
+[dwgsim_core] chrUn_KI270529v1 length: 1899
+[dwgsim_core] chrUn_KI270528v1 length: 2983
+[dwgsim_core] chrUn_KI270530v1 length: 2168
+[dwgsim_core] chrUn_KI270539v1 length: 993
+[dwgsim_core] chrUn_KI270538v1 length: 91309
+[dwgsim_core] chrUn_KI270544v1 length: 1202
+[dwgsim_core] chrUn_KI270548v1 length: 1599
+[dwgsim_core] chrUn_KI270583v1 length: 1400
+[dwgsim_core] chrUn_KI270587v1 length: 2969
+[dwgsim_core] chrUn_KI270580v1 length: 1553
+[dwgsim_core] chrUn_KI270581v1 length: 7046
+[dwgsim_core] chrUn_KI270579v1 length: 31033
+[dwgsim_core] chrUn_KI270589v1 length: 44474
+[dwgsim_core] chrUn_KI270590v1 length: 4685
+[dwgsim_core] chrUn_KI270584v1 length: 4513
+[dwgsim_core] chrUn_KI270582v1 length: 6504
+[dwgsim_core] chrUn_KI270588v1 length: 6158
+[dwgsim_core] chrUn_KI270593v1 length: 3041
+[dwgsim_core] chrUn_KI270591v1 length: 5796
+[dwgsim_core] chrUn_KI270330v1 length: 1652
+[dwgsim_core] chrUn_KI270329v1 length: 1040
+[dwgsim_core] chrUn_KI270334v1 length: 1368
+[dwgsim_core] chrUn_KI270333v1 length: 2699
+[dwgsim_core] chrUn_KI270335v1 length: 1048
+[dwgsim_core] chrUn_KI270338v1 length: 1428
+[dwgsim_core] chrUn_KI270340v1 length: 1428
+[dwgsim_core] chrUn_KI270336v1 length: 1026
+[dwgsim_core] chrUn_KI270337v1 length: 1121
+[dwgsim_core] chrUn_KI270363v1 length: 1803
+[dwgsim_core] chrUn_KI270364v1 length: 2855
+[dwgsim_core] chrUn_KI270362v1 length: 3530
+[dwgsim_core] chrUn_KI270366v1 length: 8320
+[dwgsim_core] chrUn_KI270378v1 length: 1048
+[dwgsim_core] chrUn_KI270379v1 length: 1045
+[dwgsim_core] chrUn_KI270389v1 length: 1298
+[dwgsim_core] chrUn_KI270390v1 length: 2387
+[dwgsim_core] chrUn_KI270387v1 length: 1537
+[dwgsim_core] chrUn_KI270395v1 length: 1143
+[dwgsim_core] chrUn_KI270396v1 length: 1880
+[dwgsim_core] chrUn_KI270388v1 length: 1216
+[dwgsim_core] chrUn_KI270394v1 length: 970
+[dwgsim_core] chrUn_KI270386v1 length: 1788
+[dwgsim_core] chrUn_KI270391v1 length: 1484
+[dwgsim_core] chrUn_KI270383v1 length: 1750
+[dwgsim_core] chrUn_KI270393v1 length: 1308
+[dwgsim_core] chrUn_KI270384v1 length: 1658
+[dwgsim_core] chrUn_KI270392v1 length: 971
+[dwgsim_core] chrUn_KI270381v1 length: 1930
+[dwgsim_core] chrUn_KI270385v1 length: 990
+[dwgsim_core] chrUn_KI270382v1 length: 4215
+[dwgsim_core] chrUn_KI270376v1 length: 1136
+[dwgsim_core] chrUn_KI270374v1 length: 2656
+[dwgsim_core] chrUn_KI270372v1 length: 1650
+[dwgsim_core] chrUn_KI270373v1 length: 1451
+[dwgsim_core] chrUn_KI270375v1 length: 2378
+[dwgsim_core] chrUn_KI270371v1 length: 2805
+[dwgsim_core] chrUn_KI270448v1 length: 7992
+[dwgsim_core] chrUn_KI270521v1 length: 7642
+[dwgsim_core] chrUn_GL000195v1 length: 182896
+[dwgsim_core] chrUn_GL000219v1 length: 179198
+[dwgsim_core] chrUn_GL000220v1 length: 161802
+[dwgsim_core] chrUn_GL000224v1 length: 179693
+[dwgsim_core] chrUn_KI270741v1 length: 157432
+[dwgsim_core] chrUn_GL000226v1 length: 15008
+[dwgsim_core] chrUn_GL000213v1 length: 164239
+[dwgsim_core] chrUn_KI270743v1 length: 210658
+[dwgsim_core] chrUn_KI270744v1 length: 168472
+[dwgsim_core] chrUn_KI270745v1 length: 41891
+[dwgsim_core] chrUn_KI270746v1 length: 66486
+[dwgsim_core] chrUn_KI270747v1 length: 198735
+[dwgsim_core] chrUn_KI270748v1 length: 93321
+[dwgsim_core] chrUn_KI270749v1 length: 158759
+[dwgsim_core] chrUn_KI270750v1 length: 148850
+[dwgsim_core] chrUn_KI270751v1 length: 150742
+[dwgsim_core] chrUn_KI270752v1 length: 27745
+[dwgsim_core] chrUn_KI270753v1 length: 62944
+[dwgsim_core] chrUn_KI270754v1 length: 40191
+[dwgsim_core] chrUn_KI270755v1 length: 36723
+[dwgsim_core] chrUn_KI270756v1 length: 79590
+[dwgsim_core] chrUn_KI270757v1 length: 71251
+[dwgsim_core] chrUn_GL000214v1 length: 137718
+[dwgsim_core] chrUn_KI270742v1 length: 186739
+[dwgsim_core] chrUn_GL000216v2 length: 176608
+[dwgsim_core] chrUn_GL000218v1 length: 161147
+[dwgsim_core] chrX length: 156040895
+[dwgsim_core] chrY length: 57227415
+[dwgsim_core] chrY_KI270740v1_random length: 37240
+[dwgsim_core] chr1_KQ031383v1_fix length: 467143
+[dwgsim_core] chr1_KQ983255v1_alt length: 278659
+[dwgsim_core] chr1_KN538361v1_fix length: 305542
+[dwgsim_core] chr1_KQ458383v1_alt length: 349938
+[dwgsim_core] chr1_KN196473v1_fix length: 166200
+[dwgsim_core] chr1_KZ208904v1_alt length: 166136
+[dwgsim_core] chr1_KN196472v1_fix length: 186494
+[dwgsim_core] chr1_KZ208905v1_alt length: 140355
+[dwgsim_core] chr1_KQ458382v1_alt length: 141019
+[dwgsim_core] chr1_KV880763v1_alt length: 551020
+[dwgsim_core] chr1_KN196474v1_fix length: 122022
+[dwgsim_core] chr1_KN538360v1_fix length: 460100
+[dwgsim_core] chr1_KZ208906v1_fix length: 330031
+[dwgsim_core] chr1_KQ458384v1_alt length: 212205
+[dwgsim_core] chr2_KQ031384v1_fix length: 481245
+[dwgsim_core] chr2_KZ208907v1_alt length: 181658
+[dwgsim_core] chr2_KQ983256v1_alt length: 535088
+[dwgsim_core] chr2_KZ208908v1_alt length: 140361
+[dwgsim_core] chr2_KN538363v1_fix length: 365499
+[dwgsim_core] chr2_KN538362v1_fix length: 208149
+[dwgsim_core] chr3_KV766192v1_fix length: 411654
+[dwgsim_core] chr3_KN196475v1_fix length: 451168
+[dwgsim_core] chr3_KQ031385v1_fix length: 373699
+[dwgsim_core] chr3_KN538364v1_fix length: 415308
+[dwgsim_core] chr3_KZ208909v1_alt length: 175849
+[dwgsim_core] chr3_KQ031386v1_fix length: 165718
+[dwgsim_core] chr3_KN196476v1_fix length: 305979
+[dwgsim_core] chr4_KQ090013v1_alt length: 90922
+[dwgsim_core] chr4_KQ090014v1_alt length: 163749
+[dwgsim_core] chr4_KQ090015v1_alt length: 236512
+[dwgsim_core] chr4_KV766193v1_alt length: 420675
+[dwgsim_core] chr4_KQ983257v1_fix length: 230434
+[dwgsim_core] chr4_KQ983258v1_alt length: 205407
+[dwgsim_core] chr5_KZ208910v1_alt length: 135987
+[dwgsim_core] chr5_KN196477v1_alt length: 139087
+[dwgsim_core] chr5_KV575243v1_alt length: 362221
+[dwgsim_core] chr5_KV575244v1_fix length: 673059
+[dwgsim_core] chr6_KZ208911v1_fix length: 242796
+[dwgsim_core] chr6_KQ090017v1_alt length: 82315
+[dwgsim_core] chr6_KQ031387v1_fix length: 320750
+[dwgsim_core] chr6_KN196478v1_fix length: 268330
+[dwgsim_core] chr6_KQ090016v1_fix length: 245716
+[dwgsim_core] chr6_KV766194v1_fix length: 139427
+[dwgsim_core] chr7_KV880764v1_fix length: 142129
+[dwgsim_core] chr7_KV880765v1_fix length: 468267
+[dwgsim_core] chr7_KZ208912v1_fix length: 589656
+[dwgsim_core] chr7_KZ208913v1_alt length: 680662
+[dwgsim_core] chr7_KQ031388v1_fix length: 179932
+[dwgsim_core] chr8_KZ208915v1_fix length: 6367528
+[dwgsim_core] chr8_KV880767v1_fix length: 265876
+[dwgsim_core] chr8_KV880766v1_fix length: 156998
+[dwgsim_core] chr8_KZ208914v1_fix length: 165120
+[dwgsim_core] chr9_KQ090018v1_alt length: 163882
+[dwgsim_core] chr9_KQ090019v1_alt length: 134099
+[dwgsim_core] chr9_KN196479v1_fix length: 330164
+[dwgsim_core] chr10_KN538367v1_fix length: 420164
+[dwgsim_core] chr10_KQ090020v1_alt length: 185507
+[dwgsim_core] chr10_KN196480v1_fix length: 277797
+[dwgsim_core] chr10_KQ090021v1_fix length: 264545
+[dwgsim_core] chr10_KN538366v1_fix length: 85284
+[dwgsim_core] chr10_KN538365v1_fix length: 14347
+[dwgsim_core] chr11_KQ759759v1_fix length: 196940
+[dwgsim_core] chr11_KN538368v1_alt length: 203552
+[dwgsim_core] chr11_KV766195v1_fix length: 140877
+[dwgsim_core] chr11_KQ090022v1_fix length: 181958
+[dwgsim_core] chr11_KN196481v1_fix length: 108875
+[dwgsim_core] chr12_KQ090023v1_alt length: 109323
+[dwgsim_core] chr12_KZ208916v1_fix length: 1046838
+[dwgsim_core] chr12_KN538369v1_fix length: 541038
+[dwgsim_core] chr12_KN196482v1_fix length: 211377
+[dwgsim_core] chr12_KZ208918v1_alt length: 174808
+[dwgsim_core] chr12_KQ759760v1_fix length: 315610
+[dwgsim_core] chr12_KZ208917v1_fix length: 64689
+[dwgsim_core] chr12_KN538370v1_fix length: 86533
+[dwgsim_core] chr13_KN538372v1_fix length: 356766
+[dwgsim_core] chr13_KQ090024v1_alt length: 168146
+[dwgsim_core] chr13_KN196483v1_fix length: 35455
+[dwgsim_core] chr13_KN538373v1_fix length: 148762
+[dwgsim_core] chr13_KQ090025v1_alt length: 123480
+[dwgsim_core] chr13_KN538371v1_fix length: 206320
+[dwgsim_core] chr14_KZ208920v1_fix length: 690932
+[dwgsim_core] chr14_KZ208919v1_alt length: 171798
+[dwgsim_core] chr15_KN538374v1_fix length: 4998962
+[dwgsim_core] chr15_KQ031389v1_alt length: 2365364
+[dwgsim_core] chr16_KQ090026v1_alt length: 59016
+[dwgsim_core] chr16_KV880768v1_fix length: 1927115
+[dwgsim_core] chr16_KQ090027v1_alt length: 267463
+[dwgsim_core] chr16_KZ208921v1_alt length: 78609
+[dwgsim_core] chr16_KQ031390v1_alt length: 169136
+[dwgsim_core] chr17_KV766196v1_fix length: 281919
+[dwgsim_core] chr17_KV575245v1_fix length: 154723
+[dwgsim_core] chr17_KV766198v1_alt length: 276292
+[dwgsim_core] chr17_KV766197v1_alt length: 246895
+[dwgsim_core] chr18_KQ458385v1_alt length: 205101
+[dwgsim_core] chr18_KQ090028v1_fix length: 407387
+[dwgsim_core] chr18_KZ208922v1_fix length: 93070
+[dwgsim_core] chr19_KQ458386v1_fix length: 405389
+[dwgsim_core] chr19_KN196484v1_fix length: 370917
+[dwgsim_core] chr19_KV575246v1_alt length: 163926
+[dwgsim_core] chr19_KV575247v1_alt length: 170206
+[dwgsim_core] chr19_KV575248v1_alt length: 168131
+[dwgsim_core] chr19_KV575249v1_alt length: 293522
+[dwgsim_core] chr19_KV575250v1_alt length: 241058
+[dwgsim_core] chr19_KV575251v1_alt length: 159285
+[dwgsim_core] chr19_KV575252v1_alt length: 178197
+[dwgsim_core] chr19_KV575253v1_alt length: 166713
+[dwgsim_core] chr19_KV575254v1_alt length: 99845
+[dwgsim_core] chr19_KV575255v1_alt length: 161095
+[dwgsim_core] chr19_KV575256v1_alt length: 223118
+[dwgsim_core] chr19_KV575257v1_alt length: 100553
+[dwgsim_core] chr19_KV575259v1_alt length: 171263
+[dwgsim_core] chr19_KV575260v1_alt length: 145691
+[dwgsim_core] chr19_KV575258v1_alt length: 156965
+[dwgsim_core] chr22_KN196485v1_alt length: 156562
+[dwgsim_core] chr22_KQ458387v1_alt length: 155930
+[dwgsim_core] chr22_KQ458388v1_alt length: 174749
+[dwgsim_core] chr22_KN196486v1_alt length: 153027
+[dwgsim_core] chr22_KQ759761v1_alt length: 145162
+[dwgsim_core] chr22_KQ759762v1_fix length: 101037
+[dwgsim_core] chrX_KV766199v1_alt length: 188004
+[dwgsim_core] chrY_KZ208923v1_fix length: 48370
+[dwgsim_core] chrY_KZ208924v1_fix length: 209722
+[dwgsim_core] chrY_KN196487v1_fix length: 101150
+[dwgsim_core] chr1_KZ559100v1_fix length: 44955
+[dwgsim_core] chr3_KZ559104v1_fix length: 105527
+[dwgsim_core] chr3_KZ559105v1_alt length: 195063
+[dwgsim_core] chr3_KZ559103v1_alt length: 302885
+[dwgsim_core] chr3_KZ559102v1_alt length: 197752
+[dwgsim_core] chr3_KZ559101v1_alt length: 164041
+[dwgsim_core] chr7_KZ559106v1_alt length: 172555
+[dwgsim_core] chr8_KZ559107v1_alt length: 103072
+[dwgsim_core] chr11_KZ559109v1_fix length: 279644
+[dwgsim_core] chr11_KZ559108v1_fix length: 305244
+[dwgsim_core] chr11_KZ559111v1_alt length: 181167
+[dwgsim_core] chr11_KZ559110v1_alt length: 301637
+[dwgsim_core] chr12_KZ559112v1_alt length: 154139
+[dwgsim_core] chr16_KZ559113v1_fix length: 480415
+[dwgsim_core] chr17_KZ559114v1_alt length: 116753
+[dwgsim_core] chr18_KZ559116v1_alt length: 163186
+[dwgsim_core] chr18_KZ559115v1_fix length: 230843
+[dwgsim_core] 595 sequences, total length: 3257347282
+[dwgsim_core] Currently on: 
+0[dwgsim_core] 0[dwgsim_core] 7643[dwgsim_core] 10000[dwgsim_core] 11751[dwgsim_core] 15898[dwgsim_core] 15901[dwgsim_core] 19993[dwgsim_core] 20000[dwgsim_core] 23504[dwgsim_core] 26790[dwgsim_core] 26796[dwgsim_core] 26802[dwgsim_core] 26808[dwgsim_core] 26814[dwgsim_core] 26815[dwgsim_core] 26816[dwgsim_core] 26821[dwgsim_core] 26822[dwgsim_core] 29953[dwgsim_core] 29967[dwgsim_core] 30000[dwgsim_core] 32740[dwgsim_core] 32797[dwgsim_core] 35353[dwgsim_core] 35359[dwgsim_core] 35368[dwgsim_core] 35371[dwgsim_core] 37838[dwgsim_core] 39638[dwgsim_core] 39643[dwgsim_core] 39644[dwgsim_core] 39648[dwgsim_core] 39650[dwgsim_core] 39651[dwgsim_core] 39652[dwgsim_core] 39657[dwgsim_core] 39658[dwgsim_core] 39659[dwgsim_core] 40000[dwgsim_core] 47094[dwgsim_core] 49072[dwgsim_core] 50000[dwgsim_core] 50506[dwgsim_core] 52066[dwgsim_core] 52071[dwgsim_core] 52072[dwgsim_core] 52078[dwgsim_core] 52083[dwgsim_core] 52084[dwgsim_core] 52090[dwgsim_core] 52093[dwgsim_core] 52096[dwgsim_core] 52098[dwgsim_core] 52103[dwgsim_core] 52108[dwgsim_core] 58196[dwgsim_core] 58201[dwgsim_core] 60000[dwgsim_core] 64041[dwgsim_core] 64047[dwgsim_core] 69620[dwgsim_core] 69623[dwgsim_core] 70000[dwgsim_core] 74867[dwgsim_core] 79759[dwgsim_core] 80000[dwgsim_core] 84215[dwgsim_core] 88464[dwgsim_core] 88465[dwgsim_core] 88466[dwgsim_core] 88471[dwgsim_core] 88472[dwgsim_core] 88483[dwgsim_core] 88491[dwgsim_core] 88494[dwgsim_core] 88500[dwgsim_core] 88506[dwgsim_core] 88509[dwgsim_core] 88520[dwgsim_core] 88522[dwgsim_core] 88550[dwgsim_core] 88563[dwgsim_core] 88568[dwgsim_core] 88572[dwgsim_core] 88574[dwgsim_core] 88581[dwgsim_core] 88585[dwgsim_core] 88589[dwgsim_core] 88593[dwgsim_core] 88597[dwgsim_core] 88600[dwgsim_core] 88603[dwgsim_core] 88606[dwgsim_core] 88610[dwgsim_core] 88615[dwgsim_core] 88620[dwgsim_core] 88625[dwgsim_core] 88628[dwgsim_core] 88635[dwgsim_core] 88641[dwgsim_core] 88646[dwgsim_core] 88654[dwgsim_core] 88657[dwgsim_core] 88663[dwgsim_core] 88668[dwgsim_core] 88674[dwgsim_core] 88681[dwgsim_core] 88693[dwgsim_core] 88696[dwgsim_core] 88714[dwgsim_core] 88719[dwgsim_core] 88724[dwgsim_core] 88728[dwgsim_core] 88734[dwgsim_core] 88741[dwgsim_core] 88745[dwgsim_core] 88750[dwgsim_core] 88756[dwgsim_core] 88759[dwgsim_core] 88766[dwgsim_core] 88771[dwgsim_core] 88821[dwgsim_core] 88824[dwgsim_core] 88829[dwgsim_core] 88834[dwgsim_core] 88838[dwgsim_core] 88981[dwgsim_core] 88986[dwgsim_core] 88991[dwgsim_core] 88995[dwgsim_core] 89022[dwgsim_core] 89024[dwgsim_core] 89030[dwgsim_core] 89036[dwgsim_core] 89044[dwgsim_core] 89049[dwgsim_core] 89055[dwgsim_core] 89060[dwgsim_core] 89064[dwgsim_core] 89098[dwgsim_core] 89106[dwgsim_core] 89110[dwgsim_core] 89116[dwgsim_core] 89120[dwgsim_core] 89129[dwgsim_core] 89138[dwgsim_core] 89168[dwgsim_core] 89177[dwgsim_core] 89196[dwgsim_core] 89200[dwgsim_core] 89211[dwgsim_core] 89215[dwgsim_core] 89216[dwgsim_core] 89221[dwgsim_core] 89230[dwgsim_core] 89234[dwgsim_core] 89239[dwgsim_core] 89241[dwgsim_core] 89246[dwgsim_core] 89248[dwgsim_core] 89261[dwgsim_core] 89267[dwgsim_core] 89273[dwgsim_core] 89283[dwgsim_core] 89289[dwgsim_core] 89295[dwgsim_core] 89300[dwgsim_core] 89309[dwgsim_core] 89315[dwgsim_core] 89320[dwgsim_core] 89326[dwgsim_core] 89332[dwgsim_core] 89334[dwgsim_core] 89340[dwgsim_core] 89345[dwgsim_core] 89358[dwgsim_core] 89359[dwgsim_core] 89363[dwgsim_core] 89370[dwgsim_core] 89375[dwgsim_core] 89379[dwgsim_core] 89384[dwgsim_core] 89388[dwgsim_core] 89394[dwgsim_core] 89396[dwgsim_core] 89398[dwgsim_core] 89404[dwgsim_core] 89410[dwgsim_core] 89413[dwgsim_core] 89418[dwgsim_core] 89427[dwgsim_core] 89428[dwgsim_core] 89438[dwgsim_core] 89484[dwgsim_core] 89490[dwgsim_core] 89531[dwgsim_core] 89546[dwgsim_core] 89554[dwgsim_core] 89564[dwgsim_core] 89573[dwgsim_core] 89581[dwgsim_core] 89593[dwgsim_core] 89606[dwgsim_core] 89610[dwgsim_core] 89612[dwgsim_core] 89619[dwgsim_core] 89701[dwgsim_core] 89707[dwgsim_core] 89710[dwgsim_core] 89722[dwgsim_core] 89734[dwgsim_core] 89740[dwgsim_core] 89828[dwgsim_core] 89837[dwgsim_core] 89839[dwgsim_core] 89843[dwgsim_core] 89899[dwgsim_core] 89906[dwgsim_core] 89913[dwgsim_core] 89916[dwgsim_core] 89919[dwgsim_core] 89924[dwgsim_core] 89927[dwgsim_core] 89936[dwgsim_core] 89941[dwgsim_core] 89947[dwgsim_core] 89950[dwgsim_core] 89955[dwgsim_core] 89960[dwgsim_core] 89965[dwgsim_core] 89967[dwgsim_core] 89969[dwgsim_core] 89981[dwgsim_core] 89986[dwgsim_core] 89992[dwgsim_core] 89997[dwgsim_core] 89998[dwgsim_core] 90000[dwgsim_core] 90005[dwgsim_core] 90035[dwgsim_core] 90039[dwgsim_core] 90043[dwgsim_core] 90045[dwgsim_core] 90051[dwgsim_core] 90053[dwgsim_core] 90058[dwgsim_core] 90062[dwgsim_core] 90068[dwgsim_core] 90070[dwgsim_core] 90074[dwgsim_core] 90077[dwgsim_core] 90085[dwgsim_core] 90091[dwgsim_core] 90100[dwgsim_core] 90108[dwgsim_core] 90111[dwgsim_core] 90114[dwgsim_core] 90119[dwgsim_core] 90128[dwgsim_core] 90132[dwgsim_core] 90140[dwgsim_core] 90145[dwgsim_core] 90150[dwgsim_core] 90155[dwgsim_core] 90161[dwgsim_core] 90167[dwgsim_core] 90172[dwgsim_core] 90177[dwgsim_core] 90183[dwgsim_core] 90188[dwgsim_core] 90193[dwgsim_core] 90200[dwgsim_core] 90205[dwgsim_core] 90210[dwgsim_core] 90222[dwgsim_core] 90257[dwgsim_core] 90261[dwgsim_core] 90408[dwgsim_core] 90414[dwgsim_core] 90418[dwgsim_core] 90428[dwgsim_core] 90431[dwgsim_core] 90438[dwgsim_core] 90456[dwgsim_core] 90462[dwgsim_core] 90620[dwgsim_core] 90624[dwgsim_core] 90629[dwgsim_core] 90639[dwgsim_core] 90642[dwgsim_core] 90686[dwgsim_core] 90691[dwgsim_core] 90696[dwgsim_core] 90718[dwgsim_core] 90720[dwgsim_core] 90728[dwgsim_core] 90734[dwgsim_core] 90739[dwgsim_core] 90745[dwgsim_core] 90751[dwgsim_core] 90755[dwgsim_core] 90760[dwgsim_core] 90766[dwgsim_core] 90775[dwgsim_core] 90781[dwgsim_core] 90787[dwgsim_core] 90792[dwgsim_core] 90809[dwgsim_core] 90950[dwgsim_core] 90957[dwgsim_core] 90964[dwgsim_core] 90997[dwgsim_core] 91002[dwgsim_core] 91008[dwgsim_core] 91014[dwgsim_core] 91019[dwgsim_core] 91026[dwgsim_core] 91031[dwgsim_core] 91036[dwgsim_core] 91041[dwgsim_core] 91185[dwgsim_core] 91219[dwgsim_core] 91225[dwgsim_core] 91373[dwgsim_core] 91406[dwgsim_core] 91411[dwgsim_core] 91552[dwgsim_core] 91583[dwgsim_core] 91588[dwgsim_core] 91739[dwgsim_core] 91769[dwgsim_core] 91771[dwgsim_core] 91795[dwgsim_core] 91828[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91846[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91850[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91858[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91865[dwgsim_core] 91871[dwgsim_core] 91876[dwgsim_core] 91882[dwgsim_core] 91887[dwgsim_core] 91887[dwgsim_core] 91892[dwgsim_core] 91898[dwgsim_core] 91903[dwgsim_core] 91904[dwgsim_core] 91906[dwgsim_core] 91912[dwgsim_core] 91915[dwgsim_core] 91920[dwgsim_core] 91925[dwgsim_core] 91930[dwgsim_core] 91931[dwgsim_core] 91933[dwgsim_core] 91934[dwgsim_core] 91935[dwgsim_core] 91937[dwgsim_core] 91939[dwgsim_core] 91943[dwgsim_core] 91949[dwgsim_core] 91954[dwgsim_core] 91959[dwgsim_core] 96749[dwgsim_core] 98506[dwgsim_core] 98507[dwgsim_core] 98521[dwgsim_core] 98530[dwgsim_core] 98539[dwgsim_core] 98550[dwgsim_core] 98555[dwgsim_core] 98560[dwgsim_core] 98566[dwgsim_core] 98570[dwgsim_core] 98574[dwgsim_core] 98591[dwgsim_core] 98595[dwgsim_core] 98609[dwgsim_core] 98619[dwgsim_core] 98626[dwgsim_core] 98641[dwgsim_core] 98647[dwgsim_core] 98663[dwgsim_core] 98667[dwgsim_core] 98678[dwgsim_core] 98684[dwgsim_core] 98697[dwgsim_core] 98711[dwgsim_core] 98722[dwgsim_core] 98735[dwgsim_core] 98740[dwgsim_core] 98745[dwgsim_core] 98754[dwgsim_core] 98757[dwgsim_core] 98762[dwgsim_core] 98769[dwgsim_core] 98782[dwgsim_core] 98789[dwgsim_core] 98795[dwgsim_core] 98799[dwgsim_core] 98803[dwgsim_core] 98814[dwgsim_core] 98835[dwgsim_core] 98842[dwgsim_core] 98845[dwgsim_core] 98855[dwgsim_core] 98863[dwgsim_core] 98871[dwgsim_core] 98875[dwgsim_core] 98879[dwgsim_core] 98893[dwgsim_core] 98911[dwgsim_core] 98932[dwgsim_core] 98938[dwgsim_core] 99133[dwgsim_core] 99141[dwgsim_core] 99146[dwgsim_core] 99151[dwgsim_core] 99156[dwgsim_core] 99160[dwgsim_core] 99170[dwgsim_core] 99183[dwgsim_core] 99189[dwgsim_core] 99198[dwgsim_core] 99206[dwgsim_core] 99209[dwgsim_core] 99209[dwgsim_core] 99215[dwgsim_core] 99221[dwgsim_core] 99225[dwgsim_core] 99231[dwgsim_core] 99234[dwgsim_core] 99237[dwgsim_core] 99269[dwgsim_core] 99286[dwgsim_core] 99292[dwgsim_core] 99297[dwgsim_core] 99307[dwgsim_core] 99309[dwgsim_core] 99312[dwgsim_core] 99323[dwgsim_core] 99328[dwgsim_core] 99329[dwgsim_core] 99334[dwgsim_core] 99338[dwgsim_core] 99344[dwgsim_core] 99365[dwgsim_core] 99370[dwgsim_core] 99523[dwgsim_core] 99596[dwgsim_core] 99598[dwgsim_core] 99657[dwgsim_core] 99665[dwgsim_core] 99667[dwgsim_core] 99672[dwgsim_core] 99681[dwgsim_core] 99686[dwgsim_core] 99694[dwgsim_core] 99702[dwgsim_core] 99708[dwgsim_core] 99721[dwgsim_core] 99724[dwgsim_core] 99736[dwgsim_core] 99747[dwgsim_core] 99752[dwgsim_core] 99757[dwgsim_core] 99762[dwgsim_core] 99771[dwgsim_core] 99778[dwgsim_core] 99783[dwgsim_core] 99788[dwgsim_core] 99793[dwgsim_core] 99796[dwgsim_core] 99801[dwgsim_core] 99808[dwgsim_core] 99811[dwgsim_core] 99816[dwgsim_core] 99820[dwgsim_core] 99825[dwgsim_core] 99830[dwgsim_core] 99835[dwgsim_core] 99840[dwgsim_core] 99845[dwgsim_core] 99849[dwgsim_core] 99852[dwgsim_core] 99858[dwgsim_core] 99859[dwgsim_core] 99865[dwgsim_core] 99868[dwgsim_core] 99869[dwgsim_core] 99872[dwgsim_core] 99878[dwgsim_core] 99887[dwgsim_core] 99893[dwgsim_core] 99898[dwgsim_core] 99903[dwgsim_core] 99906[dwgsim_core] 99915[dwgsim_core] 99924[dwgsim_core] 99930[dwgsim_core] 99939[dwgsim_core] 99944[dwgsim_core] 99959[dwgsim_core] 99963[dwgsim_core] 99968[dwgsim_core] 100000
+[dwgsim_core] Complete!
+[dwgsim_core] chr1 length: 248956422
+[dwgsim_core] chr10 length: 133797422
+[dwgsim_core] chr11 length: 135086622
+[dwgsim_core] chr11_KI270721v1_random length: 100316
+[dwgsim_core] chr12 length: 133275309
+[dwgsim_core] chr13 length: 114364328
+[dwgsim_core] chr14 length: 107043718
+[dwgsim_core] chr14_GL000009v2_random length: 201709
+[dwgsim_core] chr14_GL000225v1_random length: 211173
+[dwgsim_core] chr14_KI270722v1_random length: 194050
+[dwgsim_core] chr14_GL000194v1_random length: 191469
+[dwgsim_core] chr14_KI270723v1_random length: 38115
+[dwgsim_core] chr14_KI270724v1_random length: 39555
+[dwgsim_core] chr14_KI270725v1_random length: 172810
+[dwgsim_core] chr14_KI270726v1_random length: 43739
+[dwgsim_core] chr15 length: 101991189
+[dwgsim_core] chr15_KI270727v1_random length: 448248
+[dwgsim_core] chr16 length: 90338345
+[dwgsim_core] chr16_KI270728v1_random length: 1872759
+[dwgsim_core] chr17 length: 83257441
+[dwgsim_core] chr17_GL000205v2_random length: 185591
+[dwgsim_core] chr17_KI270729v1_random length: 280839
+[dwgsim_core] chr17_KI270730v1_random length: 112551
+[dwgsim_core] chr18 length: 80373285
+[dwgsim_core] chr19 length: 58617616
+[dwgsim_core] chr1_KI270706v1_random length: 175055
+[dwgsim_core] chr1_KI270707v1_random length: 32032
+[dwgsim_core] chr1_KI270708v1_random length: 127682
+[dwgsim_core] chr1_KI270709v1_random length: 66860
+[dwgsim_core] chr1_KI270710v1_random length: 40176
+[dwgsim_core] chr1_KI270711v1_random length: 42210
+[dwgsim_core] chr1_KI270712v1_random length: 176043
+[dwgsim_core] chr1_KI270713v1_random length: 40745
+[dwgsim_core] chr1_KI270714v1_random length: 41717
+[dwgsim_core] chr2 length: 242193529
+[dwgsim_core] chr20 length: 64444167
+[dwgsim_core] chr21 length: 46709983
+[dwgsim_core] chr22 length: 50818468
+[dwgsim_core] chr22_KI270731v1_random length: 150754
+[dwgsim_core] chr22_KI270732v1_random length: 41543
+[dwgsim_core] chr22_KI270733v1_random length: 179772
+[dwgsim_core] chr22_KI270734v1_random length: 165050
+[dwgsim_core] chr22_KI270735v1_random length: 42811
+[dwgsim_core] chr22_KI270736v1_random length: 181920
+[dwgsim_core] chr22_KI270737v1_random length: 103838
+[dwgsim_core] chr22_KI270738v1_random length: 99375
+[dwgsim_core] chr22_KI270739v1_random length: 73985
+[dwgsim_core] chr2_KI270715v1_random length: 161471
+[dwgsim_core] chr2_KI270716v1_random length: 153799
+[dwgsim_core] chr3 length: 198295559
+[dwgsim_core] chr3_GL000221v1_random length: 155397
+[dwgsim_core] chr4 length: 190214555
+[dwgsim_core] chr4_GL000008v2_random length: 209709
+[dwgsim_core] chr5 length: 181538259
+[dwgsim_core] chr5_GL000208v1_random length: 92689
+[dwgsim_core] chr6 length: 170805979
+[dwgsim_core] chr7 length: 159345973
+[dwgsim_core] chr8 length: 145138636
+[dwgsim_core] chr9 length: 138394717
+[dwgsim_core] chr9_KI270717v1_random length: 40062
+[dwgsim_core] chr9_KI270718v1_random length: 38054
+[dwgsim_core] chr9_KI270719v1_random length: 176845
+[dwgsim_core] chr9_KI270720v1_random length: 39050
+[dwgsim_core] chr1_KI270762v1_alt length: 354444
+[dwgsim_core] chr1_KI270766v1_alt length: 256271
+[dwgsim_core] chr1_KI270760v1_alt length: 109528
+[dwgsim_core] chr1_KI270765v1_alt length: 185285
+[dwgsim_core] chr1_GL383518v1_alt length: 182439
+[dwgsim_core] chr1_GL383519v1_alt length: 110268
+[dwgsim_core] chr1_GL383520v2_alt length: 366580
+[dwgsim_core] chr1_KI270764v1_alt length: 50258
+[dwgsim_core] chr1_KI270763v1_alt length: 911658
+[dwgsim_core] chr1_KI270759v1_alt length: 425601
+[dwgsim_core] chr1_KI270761v1_alt length: 165834
+[dwgsim_core] chr2_KI270770v1_alt length: 136240
+[dwgsim_core] chr2_KI270773v1_alt length: 70887
+[dwgsim_core] chr2_KI270774v1_alt length: 223625
+[dwgsim_core] chr2_KI270769v1_alt length: 120616
+[dwgsim_core] chr2_GL383521v1_alt length: 143390
+[dwgsim_core] chr2_KI270772v1_alt length: 133041
+[dwgsim_core] chr2_KI270775v1_alt length: 138019
+[dwgsim_core] chr2_KI270771v1_alt length: 110395
+[dwgsim_core] chr2_KI270768v1_alt length: 110099
+[dwgsim_core] chr2_GL582966v2_alt length: 96131
+[dwgsim_core] chr2_GL383522v1_alt length: 123821
+[dwgsim_core] chr2_KI270776v1_alt length: 174166
+[dwgsim_core] chr2_KI270767v1_alt length: 161578
+[dwgsim_core] chr3_JH636055v2_alt length: 173151
+[dwgsim_core] chr3_KI270783v1_alt length: 109187
+[dwgsim_core] chr3_KI270780v1_alt length: 224108
+[dwgsim_core] chr3_GL383526v1_alt length: 180671
+[dwgsim_core] chr3_KI270777v1_alt length: 173649
+[dwgsim_core] chr3_KI270778v1_alt length: 248252
+[dwgsim_core] chr3_KI270781v1_alt length: 113034
+[dwgsim_core] chr3_KI270779v1_alt length: 205312
+[dwgsim_core] chr3_KI270782v1_alt length: 162429
+[dwgsim_core] chr3_KI270784v1_alt length: 184404
+[dwgsim_core] chr4_KI270790v1_alt length: 220246
+[dwgsim_core] chr4_GL383528v1_alt length: 376187
+[dwgsim_core] chr4_KI270787v1_alt length: 111943
+[dwgsim_core] chr4_GL000257v2_alt length: 586476
+[dwgsim_core] chr4_KI270788v1_alt length: 158965
+[dwgsim_core] chr4_GL383527v1_alt length: 164536
+[dwgsim_core] chr4_KI270785v1_alt length: 119912
+[dwgsim_core] chr4_KI270789v1_alt length: 205944
+[dwgsim_core] chr4_KI270786v1_alt length: 244096
+[dwgsim_core] chr5_KI270793v1_alt length: 126136
+[dwgsim_core] chr5_KI270792v1_alt length: 179043
+[dwgsim_core] chr5_KI270791v1_alt length: 195710
+[dwgsim_core] chr5_GL383532v1_alt length: 82728
+[dwgsim_core] chr5_GL949742v1_alt length: 226852
+[dwgsim_core] chr5_KI270794v1_alt length: 164558
+[dwgsim_core] chr5_GL339449v2_alt length: 1612928
+[dwgsim_core] chr5_GL383530v1_alt length: 101241
+[dwgsim_core] chr5_KI270796v1_alt length: 172708
+[dwgsim_core] chr5_GL383531v1_alt length: 173459
+[dwgsim_core] chr5_KI270795v1_alt length: 131892
+[dwgsim_core] chr6_GL000250v2_alt length: 4672374
+[dwgsim_core] chr6_KI270800v1_alt length: 175808
+[dwgsim_core] chr6_KI270799v1_alt length: 152148
+[dwgsim_core] chr6_GL383533v1_alt length: 124736
+[dwgsim_core] chr6_KI270801v1_alt length: 870480
+[dwgsim_core] chr6_KI270802v1_alt length: 75005
+[dwgsim_core] chr6_KB021644v2_alt length: 185823
+[dwgsim_core] chr6_KI270797v1_alt length: 197536
+[dwgsim_core] chr6_KI270798v1_alt length: 271782
+[dwgsim_core] chr7_KI270804v1_alt length: 157952
+[dwgsim_core] chr7_KI270809v1_alt length: 209586
+[dwgsim_core] chr7_KI270806v1_alt length: 158166
+[dwgsim_core] chr7_GL383534v2_alt length: 119183
+[dwgsim_core] chr7_KI270803v1_alt length: 1111570
+[dwgsim_core] chr7_KI270808v1_alt length: 271455
+[dwgsim_core] chr7_KI270807v1_alt length: 126434
+[dwgsim_core] chr7_KI270805v1_alt length: 209988
+[dwgsim_core] chr8_KI270818v1_alt length: 145606
+[dwgsim_core] chr8_KI270812v1_alt length: 282736
+[dwgsim_core] chr8_KI270811v1_alt length: 292436
+[dwgsim_core] chr8_KI270821v1_alt length: 985506
+[dwgsim_core] chr8_KI270813v1_alt length: 300230
+[dwgsim_core] chr8_KI270822v1_alt length: 624492
+[dwgsim_core] chr8_KI270814v1_alt length: 141812
+[dwgsim_core] chr8_KI270810v1_alt length: 374415
+[dwgsim_core] chr8_KI270819v1_alt length: 133535
+[dwgsim_core] chr8_KI270820v1_alt length: 36640
+[dwgsim_core] chr8_KI270817v1_alt length: 158983
+[dwgsim_core] chr8_KI270816v1_alt length: 305841
+[dwgsim_core] chr8_KI270815v1_alt length: 132244
+[dwgsim_core] chr9_GL383539v1_alt length: 162988
+[dwgsim_core] chr9_GL383540v1_alt length: 71551
+[dwgsim_core] chr9_GL383541v1_alt length: 171286
+[dwgsim_core] chr9_GL383542v1_alt length: 60032
+[dwgsim_core] chr9_KI270823v1_alt length: 439082
+[dwgsim_core] chr10_GL383545v1_alt length: 179254
+[dwgsim_core] chr10_KI270824v1_alt length: 181496
+[dwgsim_core] chr10_GL383546v1_alt length: 309802
+[dwgsim_core] chr10_KI270825v1_alt length: 188315
+[dwgsim_core] chr11_KI270832v1_alt length: 210133
+[dwgsim_core] chr11_KI270830v1_alt length: 177092
+[dwgsim_core] chr11_KI270831v1_alt length: 296895
+[dwgsim_core] chr11_KI270829v1_alt length: 204059
+[dwgsim_core] chr11_GL383547v1_alt length: 154407
+[dwgsim_core] chr11_JH159136v1_alt length: 200998
+[dwgsim_core] chr11_JH159137v1_alt length: 191409
+[dwgsim_core] chr11_KI270827v1_alt length: 67707
+[dwgsim_core] chr11_KI270826v1_alt length: 186169
+[dwgsim_core] chr12_GL877875v1_alt length: 167313
+[dwgsim_core] chr12_GL877876v1_alt length: 408271
+[dwgsim_core] chr12_KI270837v1_alt length: 40090
+[dwgsim_core] chr12_GL383549v1_alt length: 120804
+[dwgsim_core] chr12_KI270835v1_alt length: 238139
+[dwgsim_core] chr12_GL383550v2_alt length: 169178
+[dwgsim_core] chr12_GL383552v1_alt length: 138655
+[dwgsim_core] chr12_GL383553v2_alt length: 152874
+[dwgsim_core] chr12_KI270834v1_alt length: 119498
+[dwgsim_core] chr12_GL383551v1_alt length: 184319
+[dwgsim_core] chr12_KI270833v1_alt length: 76061
+[dwgsim_core] chr12_KI270836v1_alt length: 56134
+[dwgsim_core] chr13_KI270840v1_alt length: 191684
+[dwgsim_core] chr13_KI270839v1_alt length: 180306
+[dwgsim_core] chr13_KI270843v1_alt length: 103832
+[dwgsim_core] chr13_KI270841v1_alt length: 169134
+[dwgsim_core] chr13_KI270838v1_alt length: 306913
+[dwgsim_core] chr13_KI270842v1_alt length: 37287
+[dwgsim_core] chr14_KI270844v1_alt length: 322166
+[dwgsim_core] chr14_KI270847v1_alt length: 1511111
+[dwgsim_core] chr14_KI270845v1_alt length: 180703
+[dwgsim_core] chr14_KI270846v1_alt length: 1351393
+[dwgsim_core] chr15_KI270852v1_alt length: 478999
+[dwgsim_core] chr15_KI270851v1_alt length: 263054
+[dwgsim_core] chr15_KI270848v1_alt length: 327382
+[dwgsim_core] chr15_GL383554v1_alt length: 296527
+[dwgsim_core] chr15_KI270849v1_alt length: 244917
+[dwgsim_core] chr15_GL383555v2_alt length: 388773
+[dwgsim_core] chr15_KI270850v1_alt length: 430880
+[dwgsim_core] chr16_KI270854v1_alt length: 134193
+[dwgsim_core] chr16_KI270856v1_alt length: 63982
+[dwgsim_core] chr16_KI270855v1_alt length: 232857
+[dwgsim_core] chr16_KI270853v1_alt length: 2659700
+[dwgsim_core] chr16_GL383556v1_alt length: 192462
+[dwgsim_core] chr16_GL383557v1_alt length: 89672
+[dwgsim_core] chr17_GL383563v3_alt length: 375691
+[dwgsim_core] chr17_KI270862v1_alt length: 391357
+[dwgsim_core] chr17_KI270861v1_alt length: 196688
+[dwgsim_core] chr17_KI270857v1_alt length: 2877074
+[dwgsim_core] chr17_JH159146v1_alt length: 278131
+[dwgsim_core] chr17_JH159147v1_alt length: 70345
+[dwgsim_core] chr17_GL383564v2_alt length: 133151
+[dwgsim_core] chr17_GL000258v2_alt length: 1821992
+[dwgsim_core] chr17_GL383565v1_alt length: 223995
+[dwgsim_core] chr17_KI270858v1_alt length: 235827
+[dwgsim_core] chr17_KI270859v1_alt length: 108763
+[dwgsim_core] chr17_GL383566v1_alt length: 90219
+[dwgsim_core] chr17_KI270860v1_alt length: 178921
+[dwgsim_core] chr18_KI270864v1_alt length: 111737
+[dwgsim_core] chr18_GL383567v1_alt length: 289831
+[dwgsim_core] chr18_GL383570v1_alt length: 164789
+[dwgsim_core] chr18_GL383571v1_alt length: 198278
+[dwgsim_core] chr18_GL383568v1_alt length: 104552
+[dwgsim_core] chr18_GL383569v1_alt length: 167950
+[dwgsim_core] chr18_GL383572v1_alt length: 159547
+[dwgsim_core] chr18_KI270863v1_alt length: 167999
+[dwgsim_core] chr19_KI270868v1_alt length: 61734
+[dwgsim_core] chr19_KI270865v1_alt length: 52969
+[dwgsim_core] chr19_GL383573v1_alt length: 385657
+[dwgsim_core] chr19_GL383575v2_alt length: 170222
+[dwgsim_core] chr19_GL383576v1_alt length: 188024
+[dwgsim_core] chr19_GL383574v1_alt length: 155864
+[dwgsim_core] chr19_KI270866v1_alt length: 43156
+[dwgsim_core] chr19_KI270867v1_alt length: 233762
+[dwgsim_core] chr19_GL949746v1_alt length: 987716
+[dwgsim_core] chr20_GL383577v2_alt length: 128386
+[dwgsim_core] chr20_KI270869v1_alt length: 118774
+[dwgsim_core] chr20_KI270871v1_alt length: 58661
+[dwgsim_core] chr20_KI270870v1_alt length: 183433
+[dwgsim_core] chr21_GL383578v2_alt length: 63917
+[dwgsim_core] chr21_KI270874v1_alt length: 166743
+[dwgsim_core] chr21_KI270873v1_alt length: 143900
+[dwgsim_core] chr21_GL383579v2_alt length: 201197
+[dwgsim_core] chr21_GL383580v2_alt length: 74653
+[dwgsim_core] chr21_GL383581v2_alt length: 116689
+[dwgsim_core] chr21_KI270872v1_alt length: 82692
+[dwgsim_core] chr22_KI270875v1_alt length: 259914
+[dwgsim_core] chr22_KI270878v1_alt length: 186262
+[dwgsim_core] chr22_KI270879v1_alt length: 304135
+[dwgsim_core] chr22_KI270876v1_alt length: 263666
+[dwgsim_core] chr22_KI270877v1_alt length: 101331
+[dwgsim_core] chr22_GL383583v2_alt length: 96924
+[dwgsim_core] chr22_GL383582v2_alt length: 162811
+[dwgsim_core] chrX_KI270880v1_alt length: 284869
+[dwgsim_core] chrX_KI270881v1_alt length: 144206
+[dwgsim_core] chr19_KI270882v1_alt length: 248807
+[dwgsim_core] chr19_KI270883v1_alt length: 170399
+[dwgsim_core] chr19_KI270884v1_alt length: 157053
+[dwgsim_core] chr19_KI270885v1_alt length: 171027
+[dwgsim_core] chr19_KI270886v1_alt length: 204239
+[dwgsim_core] chr19_KI270887v1_alt length: 209512
+[dwgsim_core] chr19_KI270888v1_alt length: 155532
+[dwgsim_core] chr19_KI270889v1_alt length: 170698
+[dwgsim_core] chr19_KI270890v1_alt length: 184499
+[dwgsim_core] chr19_KI270891v1_alt length: 170680
+[dwgsim_core] chr1_KI270892v1_alt length: 162212
+[dwgsim_core] chr2_KI270894v1_alt length: 214158
+[dwgsim_core] chr2_KI270893v1_alt length: 161218
+[dwgsim_core] chr3_KI270895v1_alt length: 162896
+[dwgsim_core] chr4_KI270896v1_alt length: 378547
+[dwgsim_core] chr5_KI270897v1_alt length: 1144418
+[dwgsim_core] chr5_KI270898v1_alt length: 130957
+[dwgsim_core] chr6_GL000251v2_alt length: 4795265
+[dwgsim_core] chr7_KI270899v1_alt length: 190869
+[dwgsim_core] chr8_KI270901v1_alt length: 136959
+[dwgsim_core] chr8_KI270900v1_alt length: 318687
+[dwgsim_core] chr11_KI270902v1_alt length: 106711
+[dwgsim_core] chr11_KI270903v1_alt length: 214625
+[dwgsim_core] chr12_KI270904v1_alt length: 572349
+[dwgsim_core] chr15_KI270906v1_alt length: 196384
+[dwgsim_core] chr15_KI270905v1_alt length: 5161414
+[dwgsim_core] chr17_KI270907v1_alt length: 137721
+[dwgsim_core] chr17_KI270910v1_alt length: 157099
+[dwgsim_core] chr17_KI270909v1_alt length: 325800
+[dwgsim_core] chr17_JH159148v1_alt length: 88070
+[dwgsim_core] chr17_KI270908v1_alt length: 1423190
+[dwgsim_core] chr18_KI270912v1_alt length: 174061
+[dwgsim_core] chr18_KI270911v1_alt length: 157710
+[dwgsim_core] chr19_GL949747v2_alt length: 729520
+[dwgsim_core] chr22_KB663609v1_alt length: 74013
+[dwgsim_core] chrX_KI270913v1_alt length: 274009
+[dwgsim_core] chr19_KI270914v1_alt length: 205194
+[dwgsim_core] chr19_KI270915v1_alt length: 170665
+[dwgsim_core] chr19_KI270916v1_alt length: 184516
+[dwgsim_core] chr19_KI270917v1_alt length: 190932
+[dwgsim_core] chr19_KI270918v1_alt length: 123111
+[dwgsim_core] chr19_KI270919v1_alt length: 170701
+[dwgsim_core] chr19_KI270920v1_alt length: 198005
+[dwgsim_core] chr19_KI270921v1_alt length: 282224
+[dwgsim_core] chr19_KI270922v1_alt length: 187935
+[dwgsim_core] chr19_KI270923v1_alt length: 189352
+[dwgsim_core] chr3_KI270924v1_alt length: 166540
+[dwgsim_core] chr4_KI270925v1_alt length: 555799
+[dwgsim_core] chr6_GL000252v2_alt length: 4604811
+[dwgsim_core] chr8_KI270926v1_alt length: 229282
+[dwgsim_core] chr11_KI270927v1_alt length: 218612
+[dwgsim_core] chr19_GL949748v2_alt length: 1064304
+[dwgsim_core] chr22_KI270928v1_alt length: 176103
+[dwgsim_core] chr19_KI270929v1_alt length: 186203
+[dwgsim_core] chr19_KI270930v1_alt length: 200773
+[dwgsim_core] chr19_KI270931v1_alt length: 170148
+[dwgsim_core] chr19_KI270932v1_alt length: 215732
+[dwgsim_core] chr19_KI270933v1_alt length: 170537
+[dwgsim_core] chr19_GL000209v2_alt length: 177381
+[dwgsim_core] chr3_KI270934v1_alt length: 163458
+[dwgsim_core] chr6_GL000253v2_alt length: 4677643
+[dwgsim_core] chr19_GL949749v2_alt length: 1091841
+[dwgsim_core] chr3_KI270935v1_alt length: 197351
+[dwgsim_core] chr6_GL000254v2_alt length: 4827813
+[dwgsim_core] chr19_GL949750v2_alt length: 1066390
+[dwgsim_core] chr3_KI270936v1_alt length: 164170
+[dwgsim_core] chr6_GL000255v2_alt length: 4606388
+[dwgsim_core] chr19_GL949751v2_alt length: 1002683
+[dwgsim_core] chr3_KI270937v1_alt length: 165607
+[dwgsim_core] chr6_GL000256v2_alt length: 4929269
+[dwgsim_core] chr19_GL949752v1_alt length: 987100
+[dwgsim_core] chr6_KI270758v1_alt length: 76752
+[dwgsim_core] chr19_GL949753v2_alt length: 796479
+[dwgsim_core] chr19_KI270938v1_alt length: 1066800
+[dwgsim_core] chrM length: 16569
+[dwgsim_core] chrUn_KI270302v1 length: 2274
+[dwgsim_core] chrUn_KI270304v1 length: 2165
+[dwgsim_core] chrUn_KI270303v1 length: 1942
+[dwgsim_core] chrUn_KI270305v1 length: 1472
+[dwgsim_core] chrUn_KI270322v1 length: 21476
+[dwgsim_core] chrUn_KI270320v1 length: 4416
+[dwgsim_core] chrUn_KI270310v1 length: 1201
+[dwgsim_core] chrUn_KI270316v1 length: 1444
+[dwgsim_core] chrUn_KI270315v1 length: 2276
+[dwgsim_core] chrUn_KI270312v1 length: 998
+[dwgsim_core] chrUn_KI270311v1 length: 12399
+[dwgsim_core] chrUn_KI270317v1 length: 37690
+[dwgsim_core] chrUn_KI270412v1 length: 1179
+[dwgsim_core] chrUn_KI270411v1 length: 2646
+[dwgsim_core] chrUn_KI270414v1 length: 2489
+[dwgsim_core] chrUn_KI270419v1 length: 1029
+[dwgsim_core] chrUn_KI270418v1 length: 2145
+[dwgsim_core] chrUn_KI270420v1 length: 2321
+[dwgsim_core] chrUn_KI270424v1 length: 2140
+[dwgsim_core] chrUn_KI270417v1 length: 2043
+[dwgsim_core] chrUn_KI270422v1 length: 1445
+[dwgsim_core] chrUn_KI270423v1 length: 981
+[dwgsim_core] chrUn_KI270425v1 length: 1884
+[dwgsim_core] chrUn_KI270429v1 length: 1361
+[dwgsim_core] chrUn_KI270442v1 length: 392061
+[dwgsim_core] chrUn_KI270466v1 length: 1233
+[dwgsim_core] chrUn_KI270465v1 length: 1774
+[dwgsim_core] chrUn_KI270467v1 length: 3920
+[dwgsim_core] chrUn_KI270435v1 length: 92983
+[dwgsim_core] chrUn_KI270438v1 length: 112505
+[dwgsim_core] chrUn_KI270468v1 length: 4055
+[dwgsim_core] chrUn_KI270510v1 length: 2415
+[dwgsim_core] chrUn_KI270509v1 length: 2318
+[dwgsim_core] chrUn_KI270518v1 length: 2186
+[dwgsim_core] chrUn_KI270508v1 length: 1951
+[dwgsim_core] chrUn_KI270516v1 length: 1300
+[dwgsim_core] chrUn_KI270512v1 length: 22689
+[dwgsim_core] chrUn_KI270519v1 length: 138126
+[dwgsim_core] chrUn_KI270522v1 length: 5674
+[dwgsim_core] chrUn_KI270511v1 length: 8127
+[dwgsim_core] chrUn_KI270515v1 length: 6361
+[dwgsim_core] chrUn_KI270507v1 length: 5353
+[dwgsim_core] chrUn_KI270517v1 length: 3253
+[dwgsim_core] chrUn_KI270529v1 length: 1899
+[dwgsim_core] chrUn_KI270528v1 length: 2983
+[dwgsim_core] chrUn_KI270530v1 length: 2168
+[dwgsim_core] chrUn_KI270539v1 length: 993
+[dwgsim_core] chrUn_KI270538v1 length: 91309
+[dwgsim_core] chrUn_KI270544v1 length: 1202
+[dwgsim_core] chrUn_KI270548v1 length: 1599
+[dwgsim_core] chrUn_KI270583v1 length: 1400
+[dwgsim_core] chrUn_KI270587v1 length: 2969
+[dwgsim_core] chrUn_KI270580v1 length: 1553
+[dwgsim_core] chrUn_KI270581v1 length: 7046
+[dwgsim_core] chrUn_KI270579v1 length: 31033
+[dwgsim_core] chrUn_KI270589v1 length: 44474
+[dwgsim_core] chrUn_KI270590v1 length: 4685
+[dwgsim_core] chrUn_KI270584v1 length: 4513
+[dwgsim_core] chrUn_KI270582v1 length: 6504
+[dwgsim_core] chrUn_KI270588v1 length: 6158
+[dwgsim_core] chrUn_KI270593v1 length: 3041
+[dwgsim_core] chrUn_KI270591v1 length: 5796
+[dwgsim_core] chrUn_KI270330v1 length: 1652
+[dwgsim_core] chrUn_KI270329v1 length: 1040
+[dwgsim_core] chrUn_KI270334v1 length: 1368
+[dwgsim_core] chrUn_KI270333v1 length: 2699
+[dwgsim_core] chrUn_KI270335v1 length: 1048
+[dwgsim_core] chrUn_KI270338v1 length: 1428
+[dwgsim_core] chrUn_KI270340v1 length: 1428
+[dwgsim_core] chrUn_KI270336v1 length: 1026
+[dwgsim_core] chrUn_KI270337v1 length: 1121
+[dwgsim_core] chrUn_KI270363v1 length: 1803
+[dwgsim_core] chrUn_KI270364v1 length: 2855
+[dwgsim_core] chrUn_KI270362v1 length: 3530
+[dwgsim_core] chrUn_KI270366v1 length: 8320
+[dwgsim_core] chrUn_KI270378v1 length: 1048
+[dwgsim_core] chrUn_KI270379v1 length: 1045
+[dwgsim_core] chrUn_KI270389v1 length: 1298
+[dwgsim_core] chrUn_KI270390v1 length: 2387
+[dwgsim_core] chrUn_KI270387v1 length: 1537
+[dwgsim_core] chrUn_KI270395v1 length: 1143
+[dwgsim_core] chrUn_KI270396v1 length: 1880
+[dwgsim_core] chrUn_KI270388v1 length: 1216
+[dwgsim_core] chrUn_KI270394v1 length: 970
+[dwgsim_core] chrUn_KI270386v1 length: 1788
+[dwgsim_core] chrUn_KI270391v1 length: 1484
+[dwgsim_core] chrUn_KI270383v1 length: 1750
+[dwgsim_core] chrUn_KI270393v1 length: 1308
+[dwgsim_core] chrUn_KI270384v1 length: 1658
+[dwgsim_core] chrUn_KI270392v1 length: 971
+[dwgsim_core] chrUn_KI270381v1 length: 1930
+[dwgsim_core] chrUn_KI270385v1 length: 990
+[dwgsim_core] chrUn_KI270382v1 length: 4215
+[dwgsim_core] chrUn_KI270376v1 length: 1136
+[dwgsim_core] chrUn_KI270374v1 length: 2656
+[dwgsim_core] chrUn_KI270372v1 length: 1650
+[dwgsim_core] chrUn_KI270373v1 length: 1451
+[dwgsim_core] chrUn_KI270375v1 length: 2378
+[dwgsim_core] chrUn_KI270371v1 length: 2805
+[dwgsim_core] chrUn_KI270448v1 length: 7992
+[dwgsim_core] chrUn_KI270521v1 length: 7642
+[dwgsim_core] chrUn_GL000195v1 length: 182896
+[dwgsim_core] chrUn_GL000219v1 length: 179198
+[dwgsim_core] chrUn_GL000220v1 length: 161802
+[dwgsim_core] chrUn_GL000224v1 length: 179693
+[dwgsim_core] chrUn_KI270741v1 length: 157432
+[dwgsim_core] chrUn_GL000226v1 length: 15008
+[dwgsim_core] chrUn_GL000213v1 length: 164239
+[dwgsim_core] chrUn_KI270743v1 length: 210658
+[dwgsim_core] chrUn_KI270744v1 length: 168472
+[dwgsim_core] chrUn_KI270745v1 length: 41891
+[dwgsim_core] chrUn_KI270746v1 length: 66486
+[dwgsim_core] chrUn_KI270747v1 length: 198735
+[dwgsim_core] chrUn_KI270748v1 length: 93321
+[dwgsim_core] chrUn_KI270749v1 length: 158759
+[dwgsim_core] chrUn_KI270750v1 length: 148850
+[dwgsim_core] chrUn_KI270751v1 length: 150742
+[dwgsim_core] chrUn_KI270752v1 length: 27745
+[dwgsim_core] chrUn_KI270753v1 length: 62944
+[dwgsim_core] chrUn_KI270754v1 length: 40191
+[dwgsim_core] chrUn_KI270755v1 length: 36723
+[dwgsim_core] chrUn_KI270756v1 length: 79590
+[dwgsim_core] chrUn_KI270757v1 length: 71251
+[dwgsim_core] chrUn_GL000214v1 length: 137718
+[dwgsim_core] chrUn_KI270742v1 length: 186739
+[dwgsim_core] chrUn_GL000216v2 length: 176608
+[dwgsim_core] chrUn_GL000218v1 length: 161147
+[dwgsim_core] chrX length: 156040895
+[dwgsim_core] chrY length: 57227415
+[dwgsim_core] chrY_KI270740v1_random length: 37240
+[dwgsim_core] chr1_KQ031383v1_fix length: 467143
+[dwgsim_core] chr1_KQ983255v1_alt length: 278659
+[dwgsim_core] chr1_KN538361v1_fix length: 305542
+[dwgsim_core] chr1_KQ458383v1_alt length: 349938
+[dwgsim_core] chr1_KN196473v1_fix length: 166200
+[dwgsim_core] chr1_KZ208904v1_alt length: 166136
+[dwgsim_core] chr1_KN196472v1_fix length: 186494
+[dwgsim_core] chr1_KZ208905v1_alt length: 140355
+[dwgsim_core] chr1_KQ458382v1_alt length: 141019
+[dwgsim_core] chr1_KV880763v1_alt length: 551020
+[dwgsim_core] chr1_KN196474v1_fix length: 122022
+[dwgsim_core] chr1_KN538360v1_fix length: 460100
+[dwgsim_core] chr1_KZ208906v1_fix length: 330031
+[dwgsim_core] chr1_KQ458384v1_alt length: 212205
+[dwgsim_core] chr2_KQ031384v1_fix length: 481245
+[dwgsim_core] chr2_KZ208907v1_alt length: 181658
+[dwgsim_core] chr2_KQ983256v1_alt length: 535088
+[dwgsim_core] chr2_KZ208908v1_alt length: 140361
+[dwgsim_core] chr2_KN538363v1_fix length: 365499
+[dwgsim_core] chr2_KN538362v1_fix length: 208149
+[dwgsim_core] chr3_KV766192v1_fix length: 411654
+[dwgsim_core] chr3_KN196475v1_fix length: 451168
+[dwgsim_core] chr3_KQ031385v1_fix length: 373699
+[dwgsim_core] chr3_KN538364v1_fix length: 415308
+[dwgsim_core] chr3_KZ208909v1_alt length: 175849
+[dwgsim_core] chr3_KQ031386v1_fix length: 165718
+[dwgsim_core] chr3_KN196476v1_fix length: 305979
+[dwgsim_core] chr4_KQ090013v1_alt length: 90922
+[dwgsim_core] chr4_KQ090014v1_alt length: 163749
+[dwgsim_core] chr4_KQ090015v1_alt length: 236512
+[dwgsim_core] chr4_KV766193v1_alt length: 420675
+[dwgsim_core] chr4_KQ983257v1_fix length: 230434
+[dwgsim_core] chr4_KQ983258v1_alt length: 205407
+[dwgsim_core] chr5_KZ208910v1_alt length: 135987
+[dwgsim_core] chr5_KN196477v1_alt length: 139087
+[dwgsim_core] chr5_KV575243v1_alt length: 362221
+[dwgsim_core] chr5_KV575244v1_fix length: 673059
+[dwgsim_core] chr6_KZ208911v1_fix length: 242796
+[dwgsim_core] chr6_KQ090017v1_alt length: 82315
+[dwgsim_core] chr6_KQ031387v1_fix length: 320750
+[dwgsim_core] chr6_KN196478v1_fix length: 268330
+[dwgsim_core] chr6_KQ090016v1_fix length: 245716
+[dwgsim_core] chr6_KV766194v1_fix length: 139427
+[dwgsim_core] chr7_KV880764v1_fix length: 142129
+[dwgsim_core] chr7_KV880765v1_fix length: 468267
+[dwgsim_core] chr7_KZ208912v1_fix length: 589656
+[dwgsim_core] chr7_KZ208913v1_alt length: 680662
+[dwgsim_core] chr7_KQ031388v1_fix length: 179932
+[dwgsim_core] chr8_KZ208915v1_fix length: 6367528
+[dwgsim_core] chr8_KV880767v1_fix length: 265876
+[dwgsim_core] chr8_KV880766v1_fix length: 156998
+[dwgsim_core] chr8_KZ208914v1_fix length: 165120
+[dwgsim_core] chr9_KQ090018v1_alt length: 163882
+[dwgsim_core] chr9_KQ090019v1_alt length: 134099
+[dwgsim_core] chr9_KN196479v1_fix length: 330164
+[dwgsim_core] chr10_KN538367v1_fix length: 420164
+[dwgsim_core] chr10_KQ090020v1_alt length: 185507
+[dwgsim_core] chr10_KN196480v1_fix length: 277797
+[dwgsim_core] chr10_KQ090021v1_fix length: 264545
+[dwgsim_core] chr10_KN538366v1_fix length: 85284
+[dwgsim_core] chr10_KN538365v1_fix length: 14347
+[dwgsim_core] chr11_KQ759759v1_fix length: 196940
+[dwgsim_core] chr11_KN538368v1_alt length: 203552
+[dwgsim_core] chr11_KV766195v1_fix length: 140877
+[dwgsim_core] chr11_KQ090022v1_fix length: 181958
+[dwgsim_core] chr11_KN196481v1_fix length: 108875
+[dwgsim_core] chr12_KQ090023v1_alt length: 109323
+[dwgsim_core] chr12_KZ208916v1_fix length: 1046838
+[dwgsim_core] chr12_KN538369v1_fix length: 541038
+[dwgsim_core] chr12_KN196482v1_fix length: 211377
+[dwgsim_core] chr12_KZ208918v1_alt length: 174808
+[dwgsim_core] chr12_KQ759760v1_fix length: 315610
+[dwgsim_core] chr12_KZ208917v1_fix length: 64689
+[dwgsim_core] chr12_KN538370v1_fix length: 86533
+[dwgsim_core] chr13_KN538372v1_fix length: 356766
+[dwgsim_core] chr13_KQ090024v1_alt length: 168146
+[dwgsim_core] chr13_KN196483v1_fix length: 35455
+[dwgsim_core] chr13_KN538373v1_fix length: 148762
+[dwgsim_core] chr13_KQ090025v1_alt length: 123480
+[dwgsim_core] chr13_KN538371v1_fix length: 206320
+[dwgsim_core] chr14_KZ208920v1_fix length: 690932
+[dwgsim_core] chr14_KZ208919v1_alt length: 171798
+[dwgsim_core] chr15_KN538374v1_fix length: 4998962
+[dwgsim_core] chr15_KQ031389v1_alt length: 2365364
+[dwgsim_core] chr16_KQ090026v1_alt length: 59016
+[dwgsim_core] chr16_KV880768v1_fix length: 1927115
+[dwgsim_core] chr16_KQ090027v1_alt length: 267463
+[dwgsim_core] chr16_KZ208921v1_alt length: 78609
+[dwgsim_core] chr16_KQ031390v1_alt length: 169136
+[dwgsim_core] chr17_KV766196v1_fix length: 281919
+[dwgsim_core] chr17_KV575245v1_fix length: 154723
+[dwgsim_core] chr17_KV766198v1_alt length: 276292
+[dwgsim_core] chr17_KV766197v1_alt length: 246895
+[dwgsim_core] chr18_KQ458385v1_alt length: 205101
+[dwgsim_core] chr18_KQ090028v1_fix length: 407387
+[dwgsim_core] chr18_KZ208922v1_fix length: 93070
+[dwgsim_core] chr19_KQ458386v1_fix length: 405389
+[dwgsim_core] chr19_KN196484v1_fix length: 370917
+[dwgsim_core] chr19_KV575246v1_alt length: 163926
+[dwgsim_core] chr19_KV575247v1_alt length: 170206
+[dwgsim_core] chr19_KV575248v1_alt length: 168131
+[dwgsim_core] chr19_KV575249v1_alt length: 293522
+[dwgsim_core] chr19_KV575250v1_alt length: 241058
+[dwgsim_core] chr19_KV575251v1_alt length: 159285
+[dwgsim_core] chr19_KV575252v1_alt length: 178197
+[dwgsim_core] chr19_KV575253v1_alt length: 166713
+[dwgsim_core] chr19_KV575254v1_alt length: 99845
+[dwgsim_core] chr19_KV575255v1_alt length: 161095
+[dwgsim_core] chr19_KV575256v1_alt length: 223118
+[dwgsim_core] chr19_KV575257v1_alt length: 100553
+[dwgsim_core] chr19_KV575259v1_alt length: 171263
+[dwgsim_core] chr19_KV575260v1_alt length: 145691
+[dwgsim_core] chr19_KV575258v1_alt length: 156965
+[dwgsim_core] chr22_KN196485v1_alt length: 156562
+[dwgsim_core] chr22_KQ458387v1_alt length: 155930
+[dwgsim_core] chr22_KQ458388v1_alt length: 174749
+[dwgsim_core] chr22_KN196486v1_alt length: 153027
+[dwgsim_core] chr22_KQ759761v1_alt length: 145162
+[dwgsim_core] chr22_KQ759762v1_fix length: 101037
+[dwgsim_core] chrX_KV766199v1_alt length: 188004
+[dwgsim_core] chrY_KZ208923v1_fix length: 48370
+[dwgsim_core] chrY_KZ208924v1_fix length: 209722
+[dwgsim_core] chrY_KN196487v1_fix length: 101150
+[dwgsim_core] chr1_KZ559100v1_fix length: 44955
+[dwgsim_core] chr3_KZ559104v1_fix length: 105527
+[dwgsim_core] chr3_KZ559105v1_alt length: 195063
+[dwgsim_core] chr3_KZ559103v1_alt length: 302885
+[dwgsim_core] chr3_KZ559102v1_alt length: 197752
+[dwgsim_core] chr3_KZ559101v1_alt length: 164041
+[dwgsim_core] chr7_KZ559106v1_alt length: 172555
+[dwgsim_core] chr8_KZ559107v1_alt length: 103072
+[dwgsim_core] chr11_KZ559109v1_fix length: 279644
+[dwgsim_core] chr11_KZ559108v1_fix length: 305244
+[dwgsim_core] chr11_KZ559111v1_alt length: 181167
+[dwgsim_core] chr11_KZ559110v1_alt length: 301637
+[dwgsim_core] chr12_KZ559112v1_alt length: 154139
+[dwgsim_core] chr16_KZ559113v1_fix length: 480415
+[dwgsim_core] chr17_KZ559114v1_alt length: 116753
+[dwgsim_core] chr18_KZ559116v1_alt length: 163186
+[dwgsim_core] chr18_KZ559115v1_fix length: 230843
+[dwgsim_core] 595 sequences, total length: 3257347282
+[dwgsim_core] Currently on: 
+0[dwgsim_core] 0[dwgsim_core] 7643[dwgsim_core] 10000[dwgsim_core] 11751[dwgsim_core] 15898[dwgsim_core] 15901[dwgsim_core] 19993[dwgsim_core] 20000[dwgsim_core] 20000[dwgsim_core] 23504[dwgsim_core] 26790[dwgsim_core] 26796[dwgsim_core] 26802[dwgsim_core] 26808[dwgsim_core] 26814[dwgsim_core] 26815[dwgsim_core] 26816[dwgsim_core] 26821[dwgsim_core] 26822[dwgsim_core] 29953[dwgsim_core] 29967[dwgsim_core] 30000[dwgsim_core] 32740[dwgsim_core] 32797[dwgsim_core] 35353[dwgsim_core] 35359[dwgsim_core] 35368[dwgsim_core] 35371[dwgsim_core] 37838[dwgsim_core] 39638[dwgsim_core] 39643[dwgsim_core] 39644[dwgsim_core] 39648[dwgsim_core] 39650[dwgsim_core] 39651[dwgsim_core] 39652[dwgsim_core] 39657[dwgsim_core] 39658[dwgsim_core] 39659[dwgsim_core] 40000[dwgsim_core] 47094[dwgsim_core] 49072[dwgsim_core] 50000[dwgsim_core] 50506[dwgsim_core] 52066[dwgsim_core] 52071[dwgsim_core] 52072[dwgsim_core] 52078[dwgsim_core] 52083[dwgsim_core] 52084[dwgsim_core] 52090[dwgsim_core] 52093[dwgsim_core] 52096[dwgsim_core] 52098[dwgsim_core] 52103[dwgsim_core] 52108[dwgsim_core] 58196[dwgsim_core] 58201[dwgsim_core] 60000[dwgsim_core] 64041[dwgsim_core] 64047[dwgsim_core] 69620[dwgsim_core] 69623[dwgsim_core] 70000[dwgsim_core] 74867[dwgsim_core] 79759[dwgsim_core] 80000[dwgsim_core] 84215[dwgsim_core] 88464[dwgsim_core] 88465[dwgsim_core] 88466[dwgsim_core] 88471[dwgsim_core] 88472[dwgsim_core] 88483[dwgsim_core] 88491[dwgsim_core] 88494[dwgsim_core] 88500[dwgsim_core] 88506[dwgsim_core] 88509[dwgsim_core] 88520[dwgsim_core] 88522[dwgsim_core] 88550[dwgsim_core] 88563[dwgsim_core] 88568[dwgsim_core] 88572[dwgsim_core] 88574[dwgsim_core] 88581[dwgsim_core] 88585[dwgsim_core] 88589[dwgsim_core] 88593[dwgsim_core] 88597[dwgsim_core] 88600[dwgsim_core] 88603[dwgsim_core] 88606[dwgsim_core] 88610[dwgsim_core] 88615[dwgsim_core] 88620[dwgsim_core] 88625[dwgsim_core] 88628[dwgsim_core] 88635[dwgsim_core] 88641[dwgsim_core] 88646[dwgsim_core] 88654[dwgsim_core] 88657[dwgsim_core] 88663[dwgsim_core] 88668[dwgsim_core] 88674[dwgsim_core] 88681[dwgsim_core] 88693[dwgsim_core] 88696[dwgsim_core] 88714[dwgsim_core] 88719[dwgsim_core] 88724[dwgsim_core] 88728[dwgsim_core] 88734[dwgsim_core] 88741[dwgsim_core] 88745[dwgsim_core] 88750[dwgsim_core] 88756[dwgsim_core] 88759[dwgsim_core] 88766[dwgsim_core] 88771[dwgsim_core] 88821[dwgsim_core] 88824[dwgsim_core] 88829[dwgsim_core] 88834[dwgsim_core] 88838[dwgsim_core] 88981[dwgsim_core] 88986[dwgsim_core] 88991[dwgsim_core] 88995[dwgsim_core] 89022[dwgsim_core] 89024[dwgsim_core] 89030[dwgsim_core] 89036[dwgsim_core] 89044[dwgsim_core] 89049[dwgsim_core] 89055[dwgsim_core] 89060[dwgsim_core] 89064[dwgsim_core] 89098[dwgsim_core] 89106[dwgsim_core] 89110[dwgsim_core] 89116[dwgsim_core] 89120[dwgsim_core] 89129[dwgsim_core] 89138[dwgsim_core] 89168[dwgsim_core] 89177[dwgsim_core] 89196[dwgsim_core] 89200[dwgsim_core] 89211[dwgsim_core] 89215[dwgsim_core] 89216[dwgsim_core] 89221[dwgsim_core] 89230[dwgsim_core] 89234[dwgsim_core] 89239[dwgsim_core] 89241[dwgsim_core] 89246[dwgsim_core] 89248[dwgsim_core] 89261[dwgsim_core] 89267[dwgsim_core] 89273[dwgsim_core] 89283[dwgsim_core] 89289[dwgsim_core] 89295[dwgsim_core] 89300[dwgsim_core] 89309[dwgsim_core] 89315[dwgsim_core] 89320[dwgsim_core] 89326[dwgsim_core] 89332[dwgsim_core] 89334[dwgsim_core] 89340[dwgsim_core] 89345[dwgsim_core] 89358[dwgsim_core] 89359[dwgsim_core] 89363[dwgsim_core] 89370[dwgsim_core] 89375[dwgsim_core] 89379[dwgsim_core] 89384[dwgsim_core] 89388[dwgsim_core] 89394[dwgsim_core] 89396[dwgsim_core] 89398[dwgsim_core] 89404[dwgsim_core] 89410[dwgsim_core] 89413[dwgsim_core] 89418[dwgsim_core] 89427[dwgsim_core] 89428[dwgsim_core] 89438[dwgsim_core] 89484[dwgsim_core] 89490[dwgsim_core] 89531[dwgsim_core] 89546[dwgsim_core] 89554[dwgsim_core] 89564[dwgsim_core] 89573[dwgsim_core] 89581[dwgsim_core] 89593[dwgsim_core] 89606[dwgsim_core] 89610[dwgsim_core] 89612[dwgsim_core] 89619[dwgsim_core] 89701[dwgsim_core] 89707[dwgsim_core] 89710[dwgsim_core] 89722[dwgsim_core] 89734[dwgsim_core] 89740[dwgsim_core] 89828[dwgsim_core] 89837[dwgsim_core] 89839[dwgsim_core] 89843[dwgsim_core] 89899[dwgsim_core] 89906[dwgsim_core] 89913[dwgsim_core] 89916[dwgsim_core] 89919[dwgsim_core] 89924[dwgsim_core] 89927[dwgsim_core] 89936[dwgsim_core] 89941[dwgsim_core] 89947[dwgsim_core] 89950[dwgsim_core] 89955[dwgsim_core] 89960[dwgsim_core] 89965[dwgsim_core] 89967[dwgsim_core] 89969[dwgsim_core] 89981[dwgsim_core] 89986[dwgsim_core] 89992[dwgsim_core] 89997[dwgsim_core] 89998[dwgsim_core] 90000[dwgsim_core] 90005[dwgsim_core] 90035[dwgsim_core] 90039[dwgsim_core] 90043[dwgsim_core] 90045[dwgsim_core] 90051[dwgsim_core] 90053[dwgsim_core] 90058[dwgsim_core] 90062[dwgsim_core] 90068[dwgsim_core] 90070[dwgsim_core] 90074[dwgsim_core] 90077[dwgsim_core] 90085[dwgsim_core] 90091[dwgsim_core] 90100[dwgsim_core] 90108[dwgsim_core] 90111[dwgsim_core] 90114[dwgsim_core] 90119[dwgsim_core] 90128[dwgsim_core] 90132[dwgsim_core] 90140[dwgsim_core] 90145[dwgsim_core] 90150[dwgsim_core] 90155[dwgsim_core] 90161[dwgsim_core] 90167[dwgsim_core] 90172[dwgsim_core] 90177[dwgsim_core] 90183[dwgsim_core] 90188[dwgsim_core] 90193[dwgsim_core] 90200[dwgsim_core] 90205[dwgsim_core] 90210[dwgsim_core] 90222[dwgsim_core] 90257[dwgsim_core] 90261[dwgsim_core] 90408[dwgsim_core] 90414[dwgsim_core] 90418[dwgsim_core] 90428[dwgsim_core] 90431[dwgsim_core] 90438[dwgsim_core] 90456[dwgsim_core] 90462[dwgsim_core] 90620[dwgsim_core] 90624[dwgsim_core] 90629[dwgsim_core] 90639[dwgsim_core] 90642[dwgsim_core] 90686[dwgsim_core] 90691[dwgsim_core] 90696[dwgsim_core] 90718[dwgsim_core] 90720[dwgsim_core] 90728[dwgsim_core] 90734[dwgsim_core] 90739[dwgsim_core] 90745[dwgsim_core] 90751[dwgsim_core] 90755[dwgsim_core] 90760[dwgsim_core] 90766[dwgsim_core] 90775[dwgsim_core] 90781[dwgsim_core] 90787[dwgsim_core] 90792[dwgsim_core] 90809[dwgsim_core] 90950[dwgsim_core] 90957[dwgsim_core] 90964[dwgsim_core] 90997[dwgsim_core] 91002[dwgsim_core] 91008[dwgsim_core] 91014[dwgsim_core] 91019[dwgsim_core] 91026[dwgsim_core] 91031[dwgsim_core] 91036[dwgsim_core] 91041[dwgsim_core] 91185[dwgsim_core] 91219[dwgsim_core] 91225[dwgsim_core] 91373[dwgsim_core] 91406[dwgsim_core] 91411[dwgsim_core] 91552[dwgsim_core] 91583[dwgsim_core] 91588[dwgsim_core] 91739[dwgsim_core] 91769[dwgsim_core] 91771[dwgsim_core] 91795[dwgsim_core] 91828[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91846[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91850[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91858[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91865[dwgsim_core] 91871[dwgsim_core] 91876[dwgsim_core] 91882[dwgsim_core] 91887[dwgsim_core] 91887[dwgsim_core] 91892[dwgsim_core] 91898[dwgsim_core] 91903[dwgsim_core] 91904[dwgsim_core] 91906[dwgsim_core] 91912[dwgsim_core] 91915[dwgsim_core] 91920[dwgsim_core] 91925[dwgsim_core] 91930[dwgsim_core] 91931[dwgsim_core] 91933[dwgsim_core] 91934[dwgsim_core] 91935[dwgsim_core] 91937[dwgsim_core] 91939[dwgsim_core] 91943[dwgsim_core] 91949[dwgsim_core] 91954[dwgsim_core] 91959[dwgsim_core] 96749[dwgsim_core] 98506[dwgsim_core] 98507[dwgsim_core] 98521[dwgsim_core] 98530[dwgsim_core] 98539[dwgsim_core] 98550[dwgsim_core] 98555[dwgsim_core] 98560[dwgsim_core] 98566[dwgsim_core] 98570[dwgsim_core] 98574[dwgsim_core] 98591[dwgsim_core] 98595[dwgsim_core] 98609[dwgsim_core] 98619[dwgsim_core] 98626[dwgsim_core] 98641[dwgsim_core] 98647[dwgsim_core] 98663[dwgsim_core] 98667[dwgsim_core] 98678[dwgsim_core] 98684[dwgsim_core] 98697[dwgsim_core] 98711[dwgsim_core] 98722[dwgsim_core] 98735[dwgsim_core] 98740[dwgsim_core] 98745[dwgsim_core] 98754[dwgsim_core] 98757[dwgsim_core] 98762[dwgsim_core] 98769[dwgsim_core] 98782[dwgsim_core] 98789[dwgsim_core] 98795[dwgsim_core] 98799[dwgsim_core] 98803[dwgsim_core] 98814[dwgsim_core] 98835[dwgsim_core] 98842[dwgsim_core] 98845[dwgsim_core] 98855[dwgsim_core] 98863[dwgsim_core] 98871[dwgsim_core] 98875[dwgsim_core] 98879[dwgsim_core] 98893[dwgsim_core] 98911[dwgsim_core] 98932[dwgsim_core] 98938[dwgsim_core] 99133[dwgsim_core] 99141[dwgsim_core] 99146[dwgsim_core] 99151[dwgsim_core] 99156[dwgsim_core] 99160[dwgsim_core] 99170[dwgsim_core] 99183[dwgsim_core] 99189[dwgsim_core] 99198[dwgsim_core] 99206[dwgsim_core] 99209[dwgsim_core] 99209[dwgsim_core] 99215[dwgsim_core] 99221[dwgsim_core] 99225[dwgsim_core] 99231[dwgsim_core] 99234[dwgsim_core] 99237[dwgsim_core] 99269[dwgsim_core] 99286[dwgsim_core] 99292[dwgsim_core] 99297[dwgsim_core] 99307[dwgsim_core] 99309[dwgsim_core] 99312[dwgsim_core] 99323[dwgsim_core] 99328[dwgsim_core] 99329[dwgsim_core] 99334[dwgsim_core] 99338[dwgsim_core] 99344[dwgsim_core] 99365[dwgsim_core] 99370[dwgsim_core] 99523[dwgsim_core] 99596[dwgsim_core] 99598[dwgsim_core] 99657[dwgsim_core] 99665[dwgsim_core] 99667[dwgsim_core] 99672[dwgsim_core] 99681[dwgsim_core] 99686[dwgsim_core] 99694[dwgsim_core] 99702[dwgsim_core] 99708[dwgsim_core] 99721[dwgsim_core] 99724[dwgsim_core] 99736[dwgsim_core] 99747[dwgsim_core] 99752[dwgsim_core] 99757[dwgsim_core] 99762[dwgsim_core] 99771[dwgsim_core] 99778[dwgsim_core] 99783[dwgsim_core] 99788[dwgsim_core] 99793[dwgsim_core] 99796[dwgsim_core] 99801[dwgsim_core] 99808[dwgsim_core] 99811[dwgsim_core] 99816[dwgsim_core] 99820[dwgsim_core] 99825[dwgsim_core] 99830[dwgsim_core] 99835[dwgsim_core] 99840[dwgsim_core] 99845[dwgsim_core] 99849[dwgsim_core] 99852[dwgsim_core] 99858[dwgsim_core] 99859[dwgsim_core] 99865[dwgsim_core] 99868[dwgsim_core] 99869[dwgsim_core] 99872[dwgsim_core] 99878[dwgsim_core] 99887[dwgsim_core] 99893[dwgsim_core] 99898[dwgsim_core] 99903[dwgsim_core] 99906[dwgsim_core] 99915[dwgsim_core] 99924[dwgsim_core] 99930[dwgsim_core] 99939[dwgsim_core] 99944[dwgsim_core] 99959[dwgsim_core] 99963[dwgsim_core] 99968[dwgsim_core] 100000
+[dwgsim_core] Complete!
+[dwgsim_core] chr1 length: 248956422
+[dwgsim_core] chr10 length: 133797422
+[dwgsim_core] chr11 length: 135086622
+[dwgsim_core] chr11_KI270721v1_random length: 100316
+[dwgsim_core] chr12 length: 133275309
+[dwgsim_core] chr13 length: 114364328
+[dwgsim_core] chr14 length: 107043718
+[dwgsim_core] chr14_GL000009v2_random length: 201709
+[dwgsim_core] chr14_GL000225v1_random length: 211173
+[dwgsim_core] chr14_KI270722v1_random length: 194050
+[dwgsim_core] chr14_GL000194v1_random length: 191469
+[dwgsim_core] chr14_KI270723v1_random length: 38115
+[dwgsim_core] chr14_KI270724v1_random length: 39555
+[dwgsim_core] chr14_KI270725v1_random length: 172810
+[dwgsim_core] chr14_KI270726v1_random length: 43739
+[dwgsim_core] chr15 length: 101991189
+[dwgsim_core] chr15_KI270727v1_random length: 448248
+[dwgsim_core] chr16 length: 90338345
+[dwgsim_core] chr16_KI270728v1_random length: 1872759
+[dwgsim_core] chr17 length: 83257441
+[dwgsim_core] chr17_GL000205v2_random length: 185591
+[dwgsim_core] chr17_KI270729v1_random length: 280839
+[dwgsim_core] chr17_KI270730v1_random length: 112551
+[dwgsim_core] chr18 length: 80373285
+[dwgsim_core] chr19 length: 58617616
+[dwgsim_core] chr1_KI270706v1_random length: 175055
+[dwgsim_core] chr1_KI270707v1_random length: 32032
+[dwgsim_core] chr1_KI270708v1_random length: 127682
+[dwgsim_core] chr1_KI270709v1_random length: 66860
+[dwgsim_core] chr1_KI270710v1_random length: 40176
+[dwgsim_core] chr1_KI270711v1_random length: 42210
+[dwgsim_core] chr1_KI270712v1_random length: 176043
+[dwgsim_core] chr1_KI270713v1_random length: 40745
+[dwgsim_core] chr1_KI270714v1_random length: 41717
+[dwgsim_core] chr2 length: 242193529
+[dwgsim_core] chr20 length: 64444167
+[dwgsim_core] chr21 length: 46709983
+[dwgsim_core] chr22 length: 50818468
+[dwgsim_core] chr22_KI270731v1_random length: 150754
+[dwgsim_core] chr22_KI270732v1_random length: 41543
+[dwgsim_core] chr22_KI270733v1_random length: 179772
+[dwgsim_core] chr22_KI270734v1_random length: 165050
+[dwgsim_core] chr22_KI270735v1_random length: 42811
+[dwgsim_core] chr22_KI270736v1_random length: 181920
+[dwgsim_core] chr22_KI270737v1_random length: 103838
+[dwgsim_core] chr22_KI270738v1_random length: 99375
+[dwgsim_core] chr22_KI270739v1_random length: 73985
+[dwgsim_core] chr2_KI270715v1_random length: 161471
+[dwgsim_core] chr2_KI270716v1_random length: 153799
+[dwgsim_core] chr3 length: 198295559
+[dwgsim_core] chr3_GL000221v1_random length: 155397
+[dwgsim_core] chr4 length: 190214555
+[dwgsim_core] chr4_GL000008v2_random length: 209709
+[dwgsim_core] chr5 length: 181538259
+[dwgsim_core] chr5_GL000208v1_random length: 92689
+[dwgsim_core] chr6 length: 170805979
+[dwgsim_core] chr7 length: 159345973
+[dwgsim_core] chr8 length: 145138636
+[dwgsim_core] chr9 length: 138394717
+[dwgsim_core] chr9_KI270717v1_random length: 40062
+[dwgsim_core] chr9_KI270718v1_random length: 38054
+[dwgsim_core] chr9_KI270719v1_random length: 176845
+[dwgsim_core] chr9_KI270720v1_random length: 39050
+[dwgsim_core] chr1_KI270762v1_alt length: 354444
+[dwgsim_core] chr1_KI270766v1_alt length: 256271
+[dwgsim_core] chr1_KI270760v1_alt length: 109528
+[dwgsim_core] chr1_KI270765v1_alt length: 185285
+[dwgsim_core] chr1_GL383518v1_alt length: 182439
+[dwgsim_core] chr1_GL383519v1_alt length: 110268
+[dwgsim_core] chr1_GL383520v2_alt length: 366580
+[dwgsim_core] chr1_KI270764v1_alt length: 50258
+[dwgsim_core] chr1_KI270763v1_alt length: 911658
+[dwgsim_core] chr1_KI270759v1_alt length: 425601
+[dwgsim_core] chr1_KI270761v1_alt length: 165834
+[dwgsim_core] chr2_KI270770v1_alt length: 136240
+[dwgsim_core] chr2_KI270773v1_alt length: 70887
+[dwgsim_core] chr2_KI270774v1_alt length: 223625
+[dwgsim_core] chr2_KI270769v1_alt length: 120616
+[dwgsim_core] chr2_GL383521v1_alt length: 143390
+[dwgsim_core] chr2_KI270772v1_alt length: 133041
+[dwgsim_core] chr2_KI270775v1_alt length: 138019
+[dwgsim_core] chr2_KI270771v1_alt length: 110395
+[dwgsim_core] chr2_KI270768v1_alt length: 110099
+[dwgsim_core] chr2_GL582966v2_alt length: 96131
+[dwgsim_core] chr2_GL383522v1_alt length: 123821
+[dwgsim_core] chr2_KI270776v1_alt length: 174166
+[dwgsim_core] chr2_KI270767v1_alt length: 161578
+[dwgsim_core] chr3_JH636055v2_alt length: 173151
+[dwgsim_core] chr3_KI270783v1_alt length: 109187
+[dwgsim_core] chr3_KI270780v1_alt length: 224108
+[dwgsim_core] chr3_GL383526v1_alt length: 180671
+[dwgsim_core] chr3_KI270777v1_alt length: 173649
+[dwgsim_core] chr3_KI270778v1_alt length: 248252
+[dwgsim_core] chr3_KI270781v1_alt length: 113034
+[dwgsim_core] chr3_KI270779v1_alt length: 205312
+[dwgsim_core] chr3_KI270782v1_alt length: 162429
+[dwgsim_core] chr3_KI270784v1_alt length: 184404
+[dwgsim_core] chr4_KI270790v1_alt length: 220246
+[dwgsim_core] chr4_GL383528v1_alt length: 376187
+[dwgsim_core] chr4_KI270787v1_alt length: 111943
+[dwgsim_core] chr4_GL000257v2_alt length: 586476
+[dwgsim_core] chr4_KI270788v1_alt length: 158965
+[dwgsim_core] chr4_GL383527v1_alt length: 164536
+[dwgsim_core] chr4_KI270785v1_alt length: 119912
+[dwgsim_core] chr4_KI270789v1_alt length: 205944
+[dwgsim_core] chr4_KI270786v1_alt length: 244096
+[dwgsim_core] chr5_KI270793v1_alt length: 126136
+[dwgsim_core] chr5_KI270792v1_alt length: 179043
+[dwgsim_core] chr5_KI270791v1_alt length: 195710
+[dwgsim_core] chr5_GL383532v1_alt length: 82728
+[dwgsim_core] chr5_GL949742v1_alt length: 226852
+[dwgsim_core] chr5_KI270794v1_alt length: 164558
+[dwgsim_core] chr5_GL339449v2_alt length: 1612928
+[dwgsim_core] chr5_GL383530v1_alt length: 101241
+[dwgsim_core] chr5_KI270796v1_alt length: 172708
+[dwgsim_core] chr5_GL383531v1_alt length: 173459
+[dwgsim_core] chr5_KI270795v1_alt length: 131892
+[dwgsim_core] chr6_GL000250v2_alt length: 4672374
+[dwgsim_core] chr6_KI270800v1_alt length: 175808
+[dwgsim_core] chr6_KI270799v1_alt length: 152148
+[dwgsim_core] chr6_GL383533v1_alt length: 124736
+[dwgsim_core] chr6_KI270801v1_alt length: 870480
+[dwgsim_core] chr6_KI270802v1_alt length: 75005
+[dwgsim_core] chr6_KB021644v2_alt length: 185823
+[dwgsim_core] chr6_KI270797v1_alt length: 197536
+[dwgsim_core] chr6_KI270798v1_alt length: 271782
+[dwgsim_core] chr7_KI270804v1_alt length: 157952
+[dwgsim_core] chr7_KI270809v1_alt length: 209586
+[dwgsim_core] chr7_KI270806v1_alt length: 158166
+[dwgsim_core] chr7_GL383534v2_alt length: 119183
+[dwgsim_core] chr7_KI270803v1_alt length: 1111570
+[dwgsim_core] chr7_KI270808v1_alt length: 271455
+[dwgsim_core] chr7_KI270807v1_alt length: 126434
+[dwgsim_core] chr7_KI270805v1_alt length: 209988
+[dwgsim_core] chr8_KI270818v1_alt length: 145606
+[dwgsim_core] chr8_KI270812v1_alt length: 282736
+[dwgsim_core] chr8_KI270811v1_alt length: 292436
+[dwgsim_core] chr8_KI270821v1_alt length: 985506
+[dwgsim_core] chr8_KI270813v1_alt length: 300230
+[dwgsim_core] chr8_KI270822v1_alt length: 624492
+[dwgsim_core] chr8_KI270814v1_alt length: 141812
+[dwgsim_core] chr8_KI270810v1_alt length: 374415
+[dwgsim_core] chr8_KI270819v1_alt length: 133535
+[dwgsim_core] chr8_KI270820v1_alt length: 36640
+[dwgsim_core] chr8_KI270817v1_alt length: 158983
+[dwgsim_core] chr8_KI270816v1_alt length: 305841
+[dwgsim_core] chr8_KI270815v1_alt length: 132244
+[dwgsim_core] chr9_GL383539v1_alt length: 162988
+[dwgsim_core] chr9_GL383540v1_alt length: 71551
+[dwgsim_core] chr9_GL383541v1_alt length: 171286
+[dwgsim_core] chr9_GL383542v1_alt length: 60032
+[dwgsim_core] chr9_KI270823v1_alt length: 439082
+[dwgsim_core] chr10_GL383545v1_alt length: 179254
+[dwgsim_core] chr10_KI270824v1_alt length: 181496
+[dwgsim_core] chr10_GL383546v1_alt length: 309802
+[dwgsim_core] chr10_KI270825v1_alt length: 188315
+[dwgsim_core] chr11_KI270832v1_alt length: 210133
+[dwgsim_core] chr11_KI270830v1_alt length: 177092
+[dwgsim_core] chr11_KI270831v1_alt length: 296895
+[dwgsim_core] chr11_KI270829v1_alt length: 204059
+[dwgsim_core] chr11_GL383547v1_alt length: 154407
+[dwgsim_core] chr11_JH159136v1_alt length: 200998
+[dwgsim_core] chr11_JH159137v1_alt length: 191409
+[dwgsim_core] chr11_KI270827v1_alt length: 67707
+[dwgsim_core] chr11_KI270826v1_alt length: 186169
+[dwgsim_core] chr12_GL877875v1_alt length: 167313
+[dwgsim_core] chr12_GL877876v1_alt length: 408271
+[dwgsim_core] chr12_KI270837v1_alt length: 40090
+[dwgsim_core] chr12_GL383549v1_alt length: 120804
+[dwgsim_core] chr12_KI270835v1_alt length: 238139
+[dwgsim_core] chr12_GL383550v2_alt length: 169178
+[dwgsim_core] chr12_GL383552v1_alt length: 138655
+[dwgsim_core] chr12_GL383553v2_alt length: 152874
+[dwgsim_core] chr12_KI270834v1_alt length: 119498
+[dwgsim_core] chr12_GL383551v1_alt length: 184319
+[dwgsim_core] chr12_KI270833v1_alt length: 76061
+[dwgsim_core] chr12_KI270836v1_alt length: 56134
+[dwgsim_core] chr13_KI270840v1_alt length: 191684
+[dwgsim_core] chr13_KI270839v1_alt length: 180306
+[dwgsim_core] chr13_KI270843v1_alt length: 103832
+[dwgsim_core] chr13_KI270841v1_alt length: 169134
+[dwgsim_core] chr13_KI270838v1_alt length: 306913
+[dwgsim_core] chr13_KI270842v1_alt length: 37287
+[dwgsim_core] chr14_KI270844v1_alt length: 322166
+[dwgsim_core] chr14_KI270847v1_alt length: 1511111
+[dwgsim_core] chr14_KI270845v1_alt length: 180703
+[dwgsim_core] chr14_KI270846v1_alt length: 1351393
+[dwgsim_core] chr15_KI270852v1_alt length: 478999
+[dwgsim_core] chr15_KI270851v1_alt length: 263054
+[dwgsim_core] chr15_KI270848v1_alt length: 327382
+[dwgsim_core] chr15_GL383554v1_alt length: 296527
+[dwgsim_core] chr15_KI270849v1_alt length: 244917
+[dwgsim_core] chr15_GL383555v2_alt length: 388773
+[dwgsim_core] chr15_KI270850v1_alt length: 430880
+[dwgsim_core] chr16_KI270854v1_alt length: 134193
+[dwgsim_core] chr16_KI270856v1_alt length: 63982
+[dwgsim_core] chr16_KI270855v1_alt length: 232857
+[dwgsim_core] chr16_KI270853v1_alt length: 2659700
+[dwgsim_core] chr16_GL383556v1_alt length: 192462
+[dwgsim_core] chr16_GL383557v1_alt length: 89672
+[dwgsim_core] chr17_GL383563v3_alt length: 375691
+[dwgsim_core] chr17_KI270862v1_alt length: 391357
+[dwgsim_core] chr17_KI270861v1_alt length: 196688
+[dwgsim_core] chr17_KI270857v1_alt length: 2877074
+[dwgsim_core] chr17_JH159146v1_alt length: 278131
+[dwgsim_core] chr17_JH159147v1_alt length: 70345
+[dwgsim_core] chr17_GL383564v2_alt length: 133151
+[dwgsim_core] chr17_GL000258v2_alt length: 1821992
+[dwgsim_core] chr17_GL383565v1_alt length: 223995
+[dwgsim_core] chr17_KI270858v1_alt length: 235827
+[dwgsim_core] chr17_KI270859v1_alt length: 108763
+[dwgsim_core] chr17_GL383566v1_alt length: 90219
+[dwgsim_core] chr17_KI270860v1_alt length: 178921
+[dwgsim_core] chr18_KI270864v1_alt length: 111737
+[dwgsim_core] chr18_GL383567v1_alt length: 289831
+[dwgsim_core] chr18_GL383570v1_alt length: 164789
+[dwgsim_core] chr18_GL383571v1_alt length: 198278
+[dwgsim_core] chr18_GL383568v1_alt length: 104552
+[dwgsim_core] chr18_GL383569v1_alt length: 167950
+[dwgsim_core] chr18_GL383572v1_alt length: 159547
+[dwgsim_core] chr18_KI270863v1_alt length: 167999
+[dwgsim_core] chr19_KI270868v1_alt length: 61734
+[dwgsim_core] chr19_KI270865v1_alt length: 52969
+[dwgsim_core] chr19_GL383573v1_alt length: 385657
+[dwgsim_core] chr19_GL383575v2_alt length: 170222
+[dwgsim_core] chr19_GL383576v1_alt length: 188024
+[dwgsim_core] chr19_GL383574v1_alt length: 155864
+[dwgsim_core] chr19_KI270866v1_alt length: 43156
+[dwgsim_core] chr19_KI270867v1_alt length: 233762
+[dwgsim_core] chr19_GL949746v1_alt length: 987716
+[dwgsim_core] chr20_GL383577v2_alt length: 128386
+[dwgsim_core] chr20_KI270869v1_alt length: 118774
+[dwgsim_core] chr20_KI270871v1_alt length: 58661
+[dwgsim_core] chr20_KI270870v1_alt length: 183433
+[dwgsim_core] chr21_GL383578v2_alt length: 63917
+[dwgsim_core] chr21_KI270874v1_alt length: 166743
+[dwgsim_core] chr21_KI270873v1_alt length: 143900
+[dwgsim_core] chr21_GL383579v2_alt length: 201197
+[dwgsim_core] chr21_GL383580v2_alt length: 74653
+[dwgsim_core] chr21_GL383581v2_alt length: 116689
+[dwgsim_core] chr21_KI270872v1_alt length: 82692
+[dwgsim_core] chr22_KI270875v1_alt length: 259914
+[dwgsim_core] chr22_KI270878v1_alt length: 186262
+[dwgsim_core] chr22_KI270879v1_alt length: 304135
+[dwgsim_core] chr22_KI270876v1_alt length: 263666
+[dwgsim_core] chr22_KI270877v1_alt length: 101331
+[dwgsim_core] chr22_GL383583v2_alt length: 96924
+[dwgsim_core] chr22_GL383582v2_alt length: 162811
+[dwgsim_core] chrX_KI270880v1_alt length: 284869
+[dwgsim_core] chrX_KI270881v1_alt length: 144206
+[dwgsim_core] chr19_KI270882v1_alt length: 248807
+[dwgsim_core] chr19_KI270883v1_alt length: 170399
+[dwgsim_core] chr19_KI270884v1_alt length: 157053
+[dwgsim_core] chr19_KI270885v1_alt length: 171027
+[dwgsim_core] chr19_KI270886v1_alt length: 204239
+[dwgsim_core] chr19_KI270887v1_alt length: 209512
+[dwgsim_core] chr19_KI270888v1_alt length: 155532
+[dwgsim_core] chr19_KI270889v1_alt length: 170698
+[dwgsim_core] chr19_KI270890v1_alt length: 184499
+[dwgsim_core] chr19_KI270891v1_alt length: 170680
+[dwgsim_core] chr1_KI270892v1_alt length: 162212
+[dwgsim_core] chr2_KI270894v1_alt length: 214158
+[dwgsim_core] chr2_KI270893v1_alt length: 161218
+[dwgsim_core] chr3_KI270895v1_alt length: 162896
+[dwgsim_core] chr4_KI270896v1_alt length: 378547
+[dwgsim_core] chr5_KI270897v1_alt length: 1144418
+[dwgsim_core] chr5_KI270898v1_alt length: 130957
+[dwgsim_core] chr6_GL000251v2_alt length: 4795265
+[dwgsim_core] chr7_KI270899v1_alt length: 190869
+[dwgsim_core] chr8_KI270901v1_alt length: 136959
+[dwgsim_core] chr8_KI270900v1_alt length: 318687
+[dwgsim_core] chr11_KI270902v1_alt length: 106711
+[dwgsim_core] chr11_KI270903v1_alt length: 214625
+[dwgsim_core] chr12_KI270904v1_alt length: 572349
+[dwgsim_core] chr15_KI270906v1_alt length: 196384
+[dwgsim_core] chr15_KI270905v1_alt length: 5161414
+[dwgsim_core] chr17_KI270907v1_alt length: 137721
+[dwgsim_core] chr17_KI270910v1_alt length: 157099
+[dwgsim_core] chr17_KI270909v1_alt length: 325800
+[dwgsim_core] chr17_JH159148v1_alt length: 88070
+[dwgsim_core] chr17_KI270908v1_alt length: 1423190
+[dwgsim_core] chr18_KI270912v1_alt length: 174061
+[dwgsim_core] chr18_KI270911v1_alt length: 157710
+[dwgsim_core] chr19_GL949747v2_alt length: 729520
+[dwgsim_core] chr22_KB663609v1_alt length: 74013
+[dwgsim_core] chrX_KI270913v1_alt length: 274009
+[dwgsim_core] chr19_KI270914v1_alt length: 205194
+[dwgsim_core] chr19_KI270915v1_alt length: 170665
+[dwgsim_core] chr19_KI270916v1_alt length: 184516
+[dwgsim_core] chr19_KI270917v1_alt length: 190932
+[dwgsim_core] chr19_KI270918v1_alt length: 123111
+[dwgsim_core] chr19_KI270919v1_alt length: 170701
+[dwgsim_core] chr19_KI270920v1_alt length: 198005
+[dwgsim_core] chr19_KI270921v1_alt length: 282224
+[dwgsim_core] chr19_KI270922v1_alt length: 187935
+[dwgsim_core] chr19_KI270923v1_alt length: 189352
+[dwgsim_core] chr3_KI270924v1_alt length: 166540
+[dwgsim_core] chr4_KI270925v1_alt length: 555799
+[dwgsim_core] chr6_GL000252v2_alt length: 4604811
+[dwgsim_core] chr8_KI270926v1_alt length: 229282
+[dwgsim_core] chr11_KI270927v1_alt length: 218612
+[dwgsim_core] chr19_GL949748v2_alt length: 1064304
+[dwgsim_core] chr22_KI270928v1_alt length: 176103
+[dwgsim_core] chr19_KI270929v1_alt length: 186203
+[dwgsim_core] chr19_KI270930v1_alt length: 200773
+[dwgsim_core] chr19_KI270931v1_alt length: 170148
+[dwgsim_core] chr19_KI270932v1_alt length: 215732
+[dwgsim_core] chr19_KI270933v1_alt length: 170537
+[dwgsim_core] chr19_GL000209v2_alt length: 177381
+[dwgsim_core] chr3_KI270934v1_alt length: 163458
+[dwgsim_core] chr6_GL000253v2_alt length: 4677643
+[dwgsim_core] chr19_GL949749v2_alt length: 1091841
+[dwgsim_core] chr3_KI270935v1_alt length: 197351
+[dwgsim_core] chr6_GL000254v2_alt length: 4827813
+[dwgsim_core] chr19_GL949750v2_alt length: 1066390
+[dwgsim_core] chr3_KI270936v1_alt length: 164170
+[dwgsim_core] chr6_GL000255v2_alt length: 4606388
+[dwgsim_core] chr19_GL949751v2_alt length: 1002683
+[dwgsim_core] chr3_KI270937v1_alt length: 165607
+[dwgsim_core] chr6_GL000256v2_alt length: 4929269
+[dwgsim_core] chr19_GL949752v1_alt length: 987100
+[dwgsim_core] chr6_KI270758v1_alt length: 76752
+[dwgsim_core] chr19_GL949753v2_alt length: 796479
+[dwgsim_core] chr19_KI270938v1_alt length: 1066800
+[dwgsim_core] chrM length: 16569
+[dwgsim_core] chrUn_KI270302v1 length: 2274
+[dwgsim_core] chrUn_KI270304v1 length: 2165
+[dwgsim_core] chrUn_KI270303v1 length: 1942
+[dwgsim_core] chrUn_KI270305v1 length: 1472
+[dwgsim_core] chrUn_KI270322v1 length: 21476
+[dwgsim_core] chrUn_KI270320v1 length: 4416
+[dwgsim_core] chrUn_KI270310v1 length: 1201
+[dwgsim_core] chrUn_KI270316v1 length: 1444
+[dwgsim_core] chrUn_KI270315v1 length: 2276
+[dwgsim_core] chrUn_KI270312v1 length: 998
+[dwgsim_core] chrUn_KI270311v1 length: 12399
+[dwgsim_core] chrUn_KI270317v1 length: 37690
+[dwgsim_core] chrUn_KI270412v1 length: 1179
+[dwgsim_core] chrUn_KI270411v1 length: 2646
+[dwgsim_core] chrUn_KI270414v1 length: 2489
+[dwgsim_core] chrUn_KI270419v1 length: 1029
+[dwgsim_core] chrUn_KI270418v1 length: 2145
+[dwgsim_core] chrUn_KI270420v1 length: 2321
+[dwgsim_core] chrUn_KI270424v1 length: 2140
+[dwgsim_core] chrUn_KI270417v1 length: 2043
+[dwgsim_core] chrUn_KI270422v1 length: 1445
+[dwgsim_core] chrUn_KI270423v1 length: 981
+[dwgsim_core] chrUn_KI270425v1 length: 1884
+[dwgsim_core] chrUn_KI270429v1 length: 1361
+[dwgsim_core] chrUn_KI270442v1 length: 392061
+[dwgsim_core] chrUn_KI270466v1 length: 1233
+[dwgsim_core] chrUn_KI270465v1 length: 1774
+[dwgsim_core] chrUn_KI270467v1 length: 3920
+[dwgsim_core] chrUn_KI270435v1 length: 92983
+[dwgsim_core] chrUn_KI270438v1 length: 112505
+[dwgsim_core] chrUn_KI270468v1 length: 4055
+[dwgsim_core] chrUn_KI270510v1 length: 2415
+[dwgsim_core] chrUn_KI270509v1 length: 2318
+[dwgsim_core] chrUn_KI270518v1 length: 2186
+[dwgsim_core] chrUn_KI270508v1 length: 1951
+[dwgsim_core] chrUn_KI270516v1 length: 1300
+[dwgsim_core] chrUn_KI270512v1 length: 22689
+[dwgsim_core] chrUn_KI270519v1 length: 138126
+[dwgsim_core] chrUn_KI270522v1 length: 5674
+[dwgsim_core] chrUn_KI270511v1 length: 8127
+[dwgsim_core] chrUn_KI270515v1 length: 6361
+[dwgsim_core] chrUn_KI270507v1 length: 5353
+[dwgsim_core] chrUn_KI270517v1 length: 3253
+[dwgsim_core] chrUn_KI270529v1 length: 1899
+[dwgsim_core] chrUn_KI270528v1 length: 2983
+[dwgsim_core] chrUn_KI270530v1 length: 2168
+[dwgsim_core] chrUn_KI270539v1 length: 993
+[dwgsim_core] chrUn_KI270538v1 length: 91309
+[dwgsim_core] chrUn_KI270544v1 length: 1202
+[dwgsim_core] chrUn_KI270548v1 length: 1599
+[dwgsim_core] chrUn_KI270583v1 length: 1400
+[dwgsim_core] chrUn_KI270587v1 length: 2969
+[dwgsim_core] chrUn_KI270580v1 length: 1553
+[dwgsim_core] chrUn_KI270581v1 length: 7046
+[dwgsim_core] chrUn_KI270579v1 length: 31033
+[dwgsim_core] chrUn_KI270589v1 length: 44474
+[dwgsim_core] chrUn_KI270590v1 length: 4685
+[dwgsim_core] chrUn_KI270584v1 length: 4513
+[dwgsim_core] chrUn_KI270582v1 length: 6504
+[dwgsim_core] chrUn_KI270588v1 length: 6158
+[dwgsim_core] chrUn_KI270593v1 length: 3041
+[dwgsim_core] chrUn_KI270591v1 length: 5796
+[dwgsim_core] chrUn_KI270330v1 length: 1652
+[dwgsim_core] chrUn_KI270329v1 length: 1040
+[dwgsim_core] chrUn_KI270334v1 length: 1368
+[dwgsim_core] chrUn_KI270333v1 length: 2699
+[dwgsim_core] chrUn_KI270335v1 length: 1048
+[dwgsim_core] chrUn_KI270338v1 length: 1428
+[dwgsim_core] chrUn_KI270340v1 length: 1428
+[dwgsim_core] chrUn_KI270336v1 length: 1026
+[dwgsim_core] chrUn_KI270337v1 length: 1121
+[dwgsim_core] chrUn_KI270363v1 length: 1803
+[dwgsim_core] chrUn_KI270364v1 length: 2855
+[dwgsim_core] chrUn_KI270362v1 length: 3530
+[dwgsim_core] chrUn_KI270366v1 length: 8320
+[dwgsim_core] chrUn_KI270378v1 length: 1048
+[dwgsim_core] chrUn_KI270379v1 length: 1045
+[dwgsim_core] chrUn_KI270389v1 length: 1298
+[dwgsim_core] chrUn_KI270390v1 length: 2387
+[dwgsim_core] chrUn_KI270387v1 length: 1537
+[dwgsim_core] chrUn_KI270395v1 length: 1143
+[dwgsim_core] chrUn_KI270396v1 length: 1880
+[dwgsim_core] chrUn_KI270388v1 length: 1216
+[dwgsim_core] chrUn_KI270394v1 length: 970
+[dwgsim_core] chrUn_KI270386v1 length: 1788
+[dwgsim_core] chrUn_KI270391v1 length: 1484
+[dwgsim_core] chrUn_KI270383v1 length: 1750
+[dwgsim_core] chrUn_KI270393v1 length: 1308
+[dwgsim_core] chrUn_KI270384v1 length: 1658
+[dwgsim_core] chrUn_KI270392v1 length: 971
+[dwgsim_core] chrUn_KI270381v1 length: 1930
+[dwgsim_core] chrUn_KI270385v1 length: 990
+[dwgsim_core] chrUn_KI270382v1 length: 4215
+[dwgsim_core] chrUn_KI270376v1 length: 1136
+[dwgsim_core] chrUn_KI270374v1 length: 2656
+[dwgsim_core] chrUn_KI270372v1 length: 1650
+[dwgsim_core] chrUn_KI270373v1 length: 1451
+[dwgsim_core] chrUn_KI270375v1 length: 2378
+[dwgsim_core] chrUn_KI270371v1 length: 2805
+[dwgsim_core] chrUn_KI270448v1 length: 7992
+[dwgsim_core] chrUn_KI270521v1 length: 7642
+[dwgsim_core] chrUn_GL000195v1 length: 182896
+[dwgsim_core] chrUn_GL000219v1 length: 179198
+[dwgsim_core] chrUn_GL000220v1 length: 161802
+[dwgsim_core] chrUn_GL000224v1 length: 179693
+[dwgsim_core] chrUn_KI270741v1 length: 157432
+[dwgsim_core] chrUn_GL000226v1 length: 15008
+[dwgsim_core] chrUn_GL000213v1 length: 164239
+[dwgsim_core] chrUn_KI270743v1 length: 210658
+[dwgsim_core] chrUn_KI270744v1 length: 168472
+[dwgsim_core] chrUn_KI270745v1 length: 41891
+[dwgsim_core] chrUn_KI270746v1 length: 66486
+[dwgsim_core] chrUn_KI270747v1 length: 198735
+[dwgsim_core] chrUn_KI270748v1 length: 93321
+[dwgsim_core] chrUn_KI270749v1 length: 158759
+[dwgsim_core] chrUn_KI270750v1 length: 148850
+[dwgsim_core] chrUn_KI270751v1 length: 150742
+[dwgsim_core] chrUn_KI270752v1 length: 27745
+[dwgsim_core] chrUn_KI270753v1 length: 62944
+[dwgsim_core] chrUn_KI270754v1 length: 40191
+[dwgsim_core] chrUn_KI270755v1 length: 36723
+[dwgsim_core] chrUn_KI270756v1 length: 79590
+[dwgsim_core] chrUn_KI270757v1 length: 71251
+[dwgsim_core] chrUn_GL000214v1 length: 137718
+[dwgsim_core] chrUn_KI270742v1 length: 186739
+[dwgsim_core] chrUn_GL000216v2 length: 176608
+[dwgsim_core] chrUn_GL000218v1 length: 161147
+[dwgsim_core] chrX length: 156040895
+[dwgsim_core] chrY length: 57227415
+[dwgsim_core] chrY_KI270740v1_random length: 37240
+[dwgsim_core] chr1_KQ031383v1_fix length: 467143
+[dwgsim_core] chr1_KQ983255v1_alt length: 278659
+[dwgsim_core] chr1_KN538361v1_fix length: 305542
+[dwgsim_core] chr1_KQ458383v1_alt length: 349938
+[dwgsim_core] chr1_KN196473v1_fix length: 166200
+[dwgsim_core] chr1_KZ208904v1_alt length: 166136
+[dwgsim_core] chr1_KN196472v1_fix length: 186494
+[dwgsim_core] chr1_KZ208905v1_alt length: 140355
+[dwgsim_core] chr1_KQ458382v1_alt length: 141019
+[dwgsim_core] chr1_KV880763v1_alt length: 551020
+[dwgsim_core] chr1_KN196474v1_fix length: 122022
+[dwgsim_core] chr1_KN538360v1_fix length: 460100
+[dwgsim_core] chr1_KZ208906v1_fix length: 330031
+[dwgsim_core] chr1_KQ458384v1_alt length: 212205
+[dwgsim_core] chr2_KQ031384v1_fix length: 481245
+[dwgsim_core] chr2_KZ208907v1_alt length: 181658
+[dwgsim_core] chr2_KQ983256v1_alt length: 535088
+[dwgsim_core] chr2_KZ208908v1_alt length: 140361
+[dwgsim_core] chr2_KN538363v1_fix length: 365499
+[dwgsim_core] chr2_KN538362v1_fix length: 208149
+[dwgsim_core] chr3_KV766192v1_fix length: 411654
+[dwgsim_core] chr3_KN196475v1_fix length: 451168
+[dwgsim_core] chr3_KQ031385v1_fix length: 373699
+[dwgsim_core] chr3_KN538364v1_fix length: 415308
+[dwgsim_core] chr3_KZ208909v1_alt length: 175849
+[dwgsim_core] chr3_KQ031386v1_fix length: 165718
+[dwgsim_core] chr3_KN196476v1_fix length: 305979
+[dwgsim_core] chr4_KQ090013v1_alt length: 90922
+[dwgsim_core] chr4_KQ090014v1_alt length: 163749
+[dwgsim_core] chr4_KQ090015v1_alt length: 236512
+[dwgsim_core] chr4_KV766193v1_alt length: 420675
+[dwgsim_core] chr4_KQ983257v1_fix length: 230434
+[dwgsim_core] chr4_KQ983258v1_alt length: 205407
+[dwgsim_core] chr5_KZ208910v1_alt length: 135987
+[dwgsim_core] chr5_KN196477v1_alt length: 139087
+[dwgsim_core] chr5_KV575243v1_alt length: 362221
+[dwgsim_core] chr5_KV575244v1_fix length: 673059
+[dwgsim_core] chr6_KZ208911v1_fix length: 242796
+[dwgsim_core] chr6_KQ090017v1_alt length: 82315
+[dwgsim_core] chr6_KQ031387v1_fix length: 320750
+[dwgsim_core] chr6_KN196478v1_fix length: 268330
+[dwgsim_core] chr6_KQ090016v1_fix length: 245716
+[dwgsim_core] chr6_KV766194v1_fix length: 139427
+[dwgsim_core] chr7_KV880764v1_fix length: 142129
+[dwgsim_core] chr7_KV880765v1_fix length: 468267
+[dwgsim_core] chr7_KZ208912v1_fix length: 589656
+[dwgsim_core] chr7_KZ208913v1_alt length: 680662
+[dwgsim_core] chr7_KQ031388v1_fix length: 179932
+[dwgsim_core] chr8_KZ208915v1_fix length: 6367528
+[dwgsim_core] chr8_KV880767v1_fix length: 265876
+[dwgsim_core] chr8_KV880766v1_fix length: 156998
+[dwgsim_core] chr8_KZ208914v1_fix length: 165120
+[dwgsim_core] chr9_KQ090018v1_alt length: 163882
+[dwgsim_core] chr9_KQ090019v1_alt length: 134099
+[dwgsim_core] chr9_KN196479v1_fix length: 330164
+[dwgsim_core] chr10_KN538367v1_fix length: 420164
+[dwgsim_core] chr10_KQ090020v1_alt length: 185507
+[dwgsim_core] chr10_KN196480v1_fix length: 277797
+[dwgsim_core] chr10_KQ090021v1_fix length: 264545
+[dwgsim_core] chr10_KN538366v1_fix length: 85284
+[dwgsim_core] chr10_KN538365v1_fix length: 14347
+[dwgsim_core] chr11_KQ759759v1_fix length: 196940
+[dwgsim_core] chr11_KN538368v1_alt length: 203552
+[dwgsim_core] chr11_KV766195v1_fix length: 140877
+[dwgsim_core] chr11_KQ090022v1_fix length: 181958
+[dwgsim_core] chr11_KN196481v1_fix length: 108875
+[dwgsim_core] chr12_KQ090023v1_alt length: 109323
+[dwgsim_core] chr12_KZ208916v1_fix length: 1046838
+[dwgsim_core] chr12_KN538369v1_fix length: 541038
+[dwgsim_core] chr12_KN196482v1_fix length: 211377
+[dwgsim_core] chr12_KZ208918v1_alt length: 174808
+[dwgsim_core] chr12_KQ759760v1_fix length: 315610
+[dwgsim_core] chr12_KZ208917v1_fix length: 64689
+[dwgsim_core] chr12_KN538370v1_fix length: 86533
+[dwgsim_core] chr13_KN538372v1_fix length: 356766
+[dwgsim_core] chr13_KQ090024v1_alt length: 168146
+[dwgsim_core] chr13_KN196483v1_fix length: 35455
+[dwgsim_core] chr13_KN538373v1_fix length: 148762
+[dwgsim_core] chr13_KQ090025v1_alt length: 123480
+[dwgsim_core] chr13_KN538371v1_fix length: 206320
+[dwgsim_core] chr14_KZ208920v1_fix length: 690932
+[dwgsim_core] chr14_KZ208919v1_alt length: 171798
+[dwgsim_core] chr15_KN538374v1_fix length: 4998962
+[dwgsim_core] chr15_KQ031389v1_alt length: 2365364
+[dwgsim_core] chr16_KQ090026v1_alt length: 59016
+[dwgsim_core] chr16_KV880768v1_fix length: 1927115
+[dwgsim_core] chr16_KQ090027v1_alt length: 267463
+[dwgsim_core] chr16_KZ208921v1_alt length: 78609
+[dwgsim_core] chr16_KQ031390v1_alt length: 169136
+[dwgsim_core] chr17_KV766196v1_fix length: 281919
+[dwgsim_core] chr17_KV575245v1_fix length: 154723
+[dwgsim_core] chr17_KV766198v1_alt length: 276292
+[dwgsim_core] chr17_KV766197v1_alt length: 246895
+[dwgsim_core] chr18_KQ458385v1_alt length: 205101
+[dwgsim_core] chr18_KQ090028v1_fix length: 407387
+[dwgsim_core] chr18_KZ208922v1_fix length: 93070
+[dwgsim_core] chr19_KQ458386v1_fix length: 405389
+[dwgsim_core] chr19_KN196484v1_fix length: 370917
+[dwgsim_core] chr19_KV575246v1_alt length: 163926
+[dwgsim_core] chr19_KV575247v1_alt length: 170206
+[dwgsim_core] chr19_KV575248v1_alt length: 168131
+[dwgsim_core] chr19_KV575249v1_alt length: 293522
+[dwgsim_core] chr19_KV575250v1_alt length: 241058
+[dwgsim_core] chr19_KV575251v1_alt length: 159285
+[dwgsim_core] chr19_KV575252v1_alt length: 178197
+[dwgsim_core] chr19_KV575253v1_alt length: 166713
+[dwgsim_core] chr19_KV575254v1_alt length: 99845
+[dwgsim_core] chr19_KV575255v1_alt length: 161095
+[dwgsim_core] chr19_KV575256v1_alt length: 223118
+[dwgsim_core] chr19_KV575257v1_alt length: 100553
+[dwgsim_core] chr19_KV575259v1_alt length: 171263
+[dwgsim_core] chr19_KV575260v1_alt length: 145691
+[dwgsim_core] chr19_KV575258v1_alt length: 156965
+[dwgsim_core] chr22_KN196485v1_alt length: 156562
+[dwgsim_core] chr22_KQ458387v1_alt length: 155930
+[dwgsim_core] chr22_KQ458388v1_alt length: 174749
+[dwgsim_core] chr22_KN196486v1_alt length: 153027
+[dwgsim_core] chr22_KQ759761v1_alt length: 145162
+[dwgsim_core] chr22_KQ759762v1_fix length: 101037
+[dwgsim_core] chrX_KV766199v1_alt length: 188004
+[dwgsim_core] chrY_KZ208923v1_fix length: 48370
+[dwgsim_core] chrY_KZ208924v1_fix length: 209722
+[dwgsim_core] chrY_KN196487v1_fix length: 101150
+[dwgsim_core] chr1_KZ559100v1_fix length: 44955
+[dwgsim_core] chr3_KZ559104v1_fix length: 105527
+[dwgsim_core] chr3_KZ559105v1_alt length: 195063
+[dwgsim_core] chr3_KZ559103v1_alt length: 302885
+[dwgsim_core] chr3_KZ559102v1_alt length: 197752
+[dwgsim_core] chr3_KZ559101v1_alt length: 164041
+[dwgsim_core] chr7_KZ559106v1_alt length: 172555
+[dwgsim_core] chr8_KZ559107v1_alt length: 103072
+[dwgsim_core] chr11_KZ559109v1_fix length: 279644
+[dwgsim_core] chr11_KZ559108v1_fix length: 305244
+[dwgsim_core] chr11_KZ559111v1_alt length: 181167
+[dwgsim_core] chr11_KZ559110v1_alt length: 301637
+[dwgsim_core] chr12_KZ559112v1_alt length: 154139
+[dwgsim_core] chr16_KZ559113v1_fix length: 480415
+[dwgsim_core] chr17_KZ559114v1_alt length: 116753
+[dwgsim_core] chr18_KZ559116v1_alt length: 163186
+[dwgsim_core] chr18_KZ559115v1_fix length: 230843
+[dwgsim_core] 595 sequences, total length: 3257347282
+[dwgsim_core] Currently on: 
+0[dwgsim_core] 0[dwgsim_core] 7643[dwgsim_core] 10000[dwgsim_core] 11751[dwgsim_core] 15898[dwgsim_core] 15901[dwgsim_core] 19993[dwgsim_core] 20000[dwgsim_core] 23504[dwgsim_core] 26790[dwgsim_core] 26796[dwgsim_core] 26802[dwgsim_core] 26808[dwgsim_core] 26814[dwgsim_core] 26815[dwgsim_core] 26816[dwgsim_core] 26821[dwgsim_core] 26822[dwgsim_core] 29953[dwgsim_core] 29967[dwgsim_core] 30000[dwgsim_core] 32740[dwgsim_core] 32797[dwgsim_core] 35353[dwgsim_core] 35359[dwgsim_core] 35368[dwgsim_core] 35371[dwgsim_core] 37838[dwgsim_core] 39638[dwgsim_core] 39643[dwgsim_core] 39644[dwgsim_core] 39648[dwgsim_core] 39650[dwgsim_core] 39651[dwgsim_core] 39652[dwgsim_core] 39657[dwgsim_core] 39658[dwgsim_core] 39659[dwgsim_core] 40000[dwgsim_core] 47094[dwgsim_core] 49072[dwgsim_core] 50000[dwgsim_core] 50506[dwgsim_core] 52066[dwgsim_core] 52071[dwgsim_core] 52072[dwgsim_core] 52078[dwgsim_core] 52083[dwgsim_core] 52084[dwgsim_core] 52090[dwgsim_core] 52093[dwgsim_core] 52096[dwgsim_core] 52098[dwgsim_core] 52103[dwgsim_core] 52108[dwgsim_core] 58196[dwgsim_core] 58201[dwgsim_core] 60000[dwgsim_core] 64041[dwgsim_core] 64047[dwgsim_core] 69620[dwgsim_core] 69623[dwgsim_core] 70000[dwgsim_core] 74867[dwgsim_core] 79759[dwgsim_core] 80000[dwgsim_core] 84215[dwgsim_core] 88464[dwgsim_core] 88465[dwgsim_core] 88466[dwgsim_core] 88471[dwgsim_core] 88472[dwgsim_core] 88483[dwgsim_core] 88491[dwgsim_core] 88494[dwgsim_core] 88500[dwgsim_core] 88506[dwgsim_core] 88509[dwgsim_core] 88520[dwgsim_core] 88522[dwgsim_core] 88550[dwgsim_core] 88563[dwgsim_core] 88568[dwgsim_core] 88572[dwgsim_core] 88574[dwgsim_core] 88581[dwgsim_core] 88585[dwgsim_core] 88589[dwgsim_core] 88593[dwgsim_core] 88597[dwgsim_core] 88600[dwgsim_core] 88603[dwgsim_core] 88606[dwgsim_core] 88610[dwgsim_core] 88615[dwgsim_core] 88620[dwgsim_core] 88625[dwgsim_core] 88628[dwgsim_core] 88635[dwgsim_core] 88641[dwgsim_core] 88646[dwgsim_core] 88654[dwgsim_core] 88657[dwgsim_core] 88663[dwgsim_core] 88668[dwgsim_core] 88674[dwgsim_core] 88681[dwgsim_core] 88693[dwgsim_core] 88696[dwgsim_core] 88714[dwgsim_core] 88719[dwgsim_core] 88724[dwgsim_core] 88728[dwgsim_core] 88734[dwgsim_core] 88741[dwgsim_core] 88745[dwgsim_core] 88750[dwgsim_core] 88756[dwgsim_core] 88759[dwgsim_core] 88766[dwgsim_core] 88771[dwgsim_core] 88821[dwgsim_core] 88824[dwgsim_core] 88829[dwgsim_core] 88834[dwgsim_core] 88838[dwgsim_core] 88981[dwgsim_core] 88986[dwgsim_core] 88991[dwgsim_core] 88995[dwgsim_core] 89022[dwgsim_core] 89024[dwgsim_core] 89030[dwgsim_core] 89036[dwgsim_core] 89044[dwgsim_core] 89049[dwgsim_core] 89055[dwgsim_core] 89060[dwgsim_core] 89064[dwgsim_core] 89098[dwgsim_core] 89106[dwgsim_core] 89110[dwgsim_core] 89116[dwgsim_core] 89120[dwgsim_core] 89129[dwgsim_core] 89138[dwgsim_core] 89168[dwgsim_core] 89177[dwgsim_core] 89196[dwgsim_core] 89200[dwgsim_core] 89211[dwgsim_core] 89215[dwgsim_core] 89216[dwgsim_core] 89221[dwgsim_core] 89230[dwgsim_core] 89234[dwgsim_core] 89239[dwgsim_core] 89241[dwgsim_core] 89246[dwgsim_core] 89248[dwgsim_core] 89261[dwgsim_core] 89267[dwgsim_core] 89273[dwgsim_core] 89283[dwgsim_core] 89289[dwgsim_core] 89295[dwgsim_core] 89300[dwgsim_core] 89309[dwgsim_core] 89315[dwgsim_core] 89320[dwgsim_core] 89326[dwgsim_core] 89332[dwgsim_core] 89334[dwgsim_core] 89340[dwgsim_core] 89345[dwgsim_core] 89358[dwgsim_core] 89359[dwgsim_core] 89363[dwgsim_core] 89370[dwgsim_core] 89375[dwgsim_core] 89379[dwgsim_core] 89384[dwgsim_core] 89388[dwgsim_core] 89394[dwgsim_core] 89396[dwgsim_core] 89398[dwgsim_core] 89404[dwgsim_core] 89410[dwgsim_core] 89413[dwgsim_core] 89418[dwgsim_core] 89427[dwgsim_core] 89428[dwgsim_core] 89438[dwgsim_core] 89484[dwgsim_core] 89490[dwgsim_core] 89531[dwgsim_core] 89546[dwgsim_core] 89554[dwgsim_core] 89564[dwgsim_core] 89573[dwgsim_core] 89581[dwgsim_core] 89593[dwgsim_core] 89606[dwgsim_core] 89610[dwgsim_core] 89612[dwgsim_core] 89619[dwgsim_core] 89701[dwgsim_core] 89707[dwgsim_core] 89710[dwgsim_core] 89722[dwgsim_core] 89734[dwgsim_core] 89740[dwgsim_core] 89828[dwgsim_core] 89837[dwgsim_core] 89839[dwgsim_core] 89843[dwgsim_core] 89899[dwgsim_core] 89906[dwgsim_core] 89913[dwgsim_core] 89916[dwgsim_core] 89919[dwgsim_core] 89924[dwgsim_core] 89927[dwgsim_core] 89936[dwgsim_core] 89941[dwgsim_core] 89947[dwgsim_core] 89950[dwgsim_core] 89955[dwgsim_core] 89960[dwgsim_core] 89965[dwgsim_core] 89967[dwgsim_core] 89969[dwgsim_core] 89981[dwgsim_core] 89986[dwgsim_core] 89992[dwgsim_core] 89997[dwgsim_core] 89998[dwgsim_core] 90000[dwgsim_core] 90005[dwgsim_core] 90035[dwgsim_core] 90039[dwgsim_core] 90043[dwgsim_core] 90045[dwgsim_core] 90051[dwgsim_core] 90053[dwgsim_core] 90058[dwgsim_core] 90062[dwgsim_core] 90068[dwgsim_core] 90070[dwgsim_core] 90074[dwgsim_core] 90077[dwgsim_core] 90085[dwgsim_core] 90091[dwgsim_core] 90100[dwgsim_core] 90108[dwgsim_core] 90111[dwgsim_core] 90114[dwgsim_core] 90119[dwgsim_core] 90128[dwgsim_core] 90132[dwgsim_core] 90140[dwgsim_core] 90145[dwgsim_core] 90150[dwgsim_core] 90155[dwgsim_core] 90161[dwgsim_core] 90167[dwgsim_core] 90172[dwgsim_core] 90177[dwgsim_core] 90183[dwgsim_core] 90188[dwgsim_core] 90193[dwgsim_core] 90200[dwgsim_core] 90205[dwgsim_core] 90210[dwgsim_core] 90222[dwgsim_core] 90257[dwgsim_core] 90261[dwgsim_core] 90408[dwgsim_core] 90414[dwgsim_core] 90418[dwgsim_core] 90428[dwgsim_core] 90431[dwgsim_core] 90438[dwgsim_core] 90456[dwgsim_core] 90462[dwgsim_core] 90620[dwgsim_core] 90624[dwgsim_core] 90629[dwgsim_core] 90639[dwgsim_core] 90642[dwgsim_core] 90686[dwgsim_core] 90691[dwgsim_core] 90696[dwgsim_core] 90718[dwgsim_core] 90720[dwgsim_core] 90728[dwgsim_core] 90734[dwgsim_core] 90739[dwgsim_core] 90745[dwgsim_core] 90751[dwgsim_core] 90755[dwgsim_core] 90760[dwgsim_core] 90766[dwgsim_core] 90775[dwgsim_core] 90781[dwgsim_core] 90787[dwgsim_core] 90792[dwgsim_core] 90809[dwgsim_core] 90950[dwgsim_core] 90957[dwgsim_core] 90964[dwgsim_core] 90997[dwgsim_core] 91002[dwgsim_core] 91008[dwgsim_core] 91014[dwgsim_core] 91019[dwgsim_core] 91026[dwgsim_core] 91031[dwgsim_core] 91036[dwgsim_core] 91041[dwgsim_core] 91185[dwgsim_core] 91219[dwgsim_core] 91225[dwgsim_core] 91373[dwgsim_core] 91406[dwgsim_core] 91411[dwgsim_core] 91552[dwgsim_core] 91583[dwgsim_core] 91588[dwgsim_core] 91739[dwgsim_core] 91769[dwgsim_core] 91771[dwgsim_core] 91795[dwgsim_core] 91828[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91829[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91830[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91831[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91843[dwgsim_core] 91846[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91849[dwgsim_core] 91850[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91854[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91857[dwgsim_core] 91858[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91859[dwgsim_core] 91865[dwgsim_core] 91871[dwgsim_core] 91876[dwgsim_core] 91882[dwgsim_core] 91887[dwgsim_core] 91887[dwgsim_core] 91892[dwgsim_core] 91898[dwgsim_core] 91903[dwgsim_core] 91904[dwgsim_core] 91906[dwgsim_core] 91912[dwgsim_core] 91915[dwgsim_core] 91920[dwgsim_core] 91925[dwgsim_core] 91930[dwgsim_core] 91931[dwgsim_core] 91933[dwgsim_core] 91934[dwgsim_core] 91935[dwgsim_core] 91937[dwgsim_core] 91939[dwgsim_core] 91943[dwgsim_core] 91949[dwgsim_core] 91954[dwgsim_core] 91959[dwgsim_core] 96749[dwgsim_core] 98506[dwgsim_core] 98507[dwgsim_core] 98521[dwgsim_core] 98530[dwgsim_core] 98539[dwgsim_core] 98550[dwgsim_core] 98555[dwgsim_core] 98560[dwgsim_core] 98566[dwgsim_core] 98570[dwgsim_core] 98574[dwgsim_core] 98591[dwgsim_core] 98595[dwgsim_core] 98609[dwgsim_core] 98619[dwgsim_core] 98626[dwgsim_core] 98641[dwgsim_core] 98647[dwgsim_core] 98663[dwgsim_core] 98667[dwgsim_core] 98678[dwgsim_core] 98684[dwgsim_core] 98697[dwgsim_core] 98711[dwgsim_core] 98722[dwgsim_core] 98735[dwgsim_core] 98740[dwgsim_core] 98745[dwgsim_core] 98754[dwgsim_core] 98757[dwgsim_core] 98762[dwgsim_core] 98769[dwgsim_core] 98782[dwgsim_core] 98789[dwgsim_core] 98795[dwgsim_core] 98799[dwgsim_core] 98803[dwgsim_core] 98814[dwgsim_core] 98835[dwgsim_core] 98842[dwgsim_core] 98845[dwgsim_core] 98855[dwgsim_core] 98863[dwgsim_core] 98871[dwgsim_core] 98875[dwgsim_core] 98879[dwgsim_core] 98893[dwgsim_core] 98911[dwgsim_core] 98932[dwgsim_core] 98938[dwgsim_core] 99133[dwgsim_core] 99141[dwgsim_core] 99146[dwgsim_core] 99151[dwgsim_core] 99156[dwgsim_core] 99160[dwgsim_core] 99170[dwgsim_core] 99183[dwgsim_core] 99189[dwgsim_core] 99198[dwgsim_core] 99206[dwgsim_core] 99209[dwgsim_core] 99209[dwgsim_core] 99215[dwgsim_core] 99221[dwgsim_core] 99225[dwgsim_core] 99231[dwgsim_core] 99234[dwgsim_core] 99237[dwgsim_core] 99269[dwgsim_core] 99286[dwgsim_core] 99292[dwgsim_core] 99297[dwgsim_core] 99307[dwgsim_core] 99309[dwgsim_core] 99312[dwgsim_core] 99323[dwgsim_core] 99328[dwgsim_core] 99329[dwgsim_core] 99334[dwgsim_core] 99338[dwgsim_core] 99344[dwgsim_core] 99365[dwgsim_core] 99370[dwgsim_core] 99523[dwgsim_core] 99596[dwgsim_core] 99598[dwgsim_core] 99657[dwgsim_core] 99665[dwgsim_core] 99667[dwgsim_core] 99672[dwgsim_core] 99681[dwgsim_core] 99686[dwgsim_core] 99694[dwgsim_core] 99702[dwgsim_core] 99708[dwgsim_core] 99721[dwgsim_core] 99724[dwgsim_core] 99736[dwgsim_core] 99747[dwgsim_core] 99752[dwgsim_core] 99757[dwgsim_core] 99762[dwgsim_core] 99771[dwgsim_core] 99778[dwgsim_core] 99783[dwgsim_core] 99788[dwgsim_core] 99793[dwgsim_core] 99796[dwgsim_core] 99801[dwgsim_core] 99808[dwgsim_core] 99811[dwgsim_core] 99816[dwgsim_core] 99820[dwgsim_core] 99825[dwgsim_core] 99830[dwgsim_core] 99835[dwgsim_core] 99840[dwgsim_core] 99845[dwgsim_core] 99849[dwgsim_core] 99852[dwgsim_core] 99858[dwgsim_core] 99859[dwgsim_core] 99865[dwgsim_core] 99868[dwgsim_core] 99869[dwgsim_core] 99872[dwgsim_core] 99878[dwgsim_core] 99887[dwgsim_core] 99893[dwgsim_core] 99898[dwgsim_core] 99903[dwgsim_core] 99906[dwgsim_core] 99915[dwgsim_core] 99924[dwgsim_core] 99930[dwgsim_core] 99939[dwgsim_core] 99944[dwgsim_core] 99959[dwgsim_core] 99963[dwgsim_core] 99968[dwgsim_core] 100000
+[dwgsim_core] Complete!

@@ -1,0 +1,15 @@
+#PBS -N HW1-1_Data_Simulation
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=10:00:00
+#PBS -S /bin/bash
+#PBS -q swxx_1
+
+cd /public/home/panxq/BME1063/BME1063_HW1/data
+
+dwgsim -e 0.0007 -E 0.0007 -N 100000 -1 50 -2 50 -z 1063 /public/home/panxq/share/ref/hg38/hg38.fa /public/home/panxq/BME1063/BME1063_HW1/data/dataset1/dwgsim_50
+
+dwgsim -e 0.0007 -E 0.0007 -N 100000 -1 70 -2 70 -z 1063 /public/home/panxq/share/ref/hg38/hg38.fa /public/home/panxq/BME1063/BME1063_HW1/data/dataset2/dwgsim_70
+
+dwgsim -e 0.0007 -E 0.0007 -N 100000 -1 100 -2 100 -z 1063 /public/home/panxq/share/ref/hg38/hg38.fa /public/home/panxq/BME1063/BME1063_HW1/data/dataset3/dwgsim_100
+
+
