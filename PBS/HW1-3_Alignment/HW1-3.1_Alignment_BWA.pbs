@@ -1,0 +1,29 @@
+#PBS -N HW1-3.1_Alignment_BWA
+#PBS -l nodes=1:ppn=10
+#PBS -l walltime=100:00:00
+#PBS -l mem=32G
+#PBS -S /bin/bash
+#PBS -q swxx_1
+
+GENOME_PATH=/public/home/panxq/share/ref/hg38
+GENOME=/public/home/panxq/share/ref/hg38/hg38.fa
+DATA=/public/home/panxq/BME1063/BME1063_HW1/data
+OPATH=/public/home/panxq/BME1063/BME1063_HW1/data/bwa_result
+
+echo "BWA time comsumption for indexing genome" > ${OPATH}/indexing_time.txt
+
+(time bwa index -a bwtsw ${GENOME}) 2>> ${OPATH}/indexing_time.txt
+
+echo "BWA time comsumption for dwgsim_50.bwa:" > ${OPATH}/dataset1/time_info.txt
+
+(time bwa mem -t 10 $GENOME ${DATA}/dataset1/dwgsim_50.bwa.read1.fastq ${DATA}/dataset1/dwgsim_50.bwa.read2.fastq) > ${OPATH}/dataset1/dwgsim_50.bwa.sam 2>> ${OPATH}/dataset1/time_info.txt
+
+echo "BWA time comsumption for dwgsim_70.bwa:" > ${OPATH}/dataset2/time_info.txt
+
+(time bwa mem -t 10 $GENOME ${DATA}/dataset2/dwgsim_70.bwa.read1.fastq ${DATA}/dataset2/dwgsim_70.bwa.read2.fastq) > ${OPATH}/dataset2/dwgsim_70.bwa.sam 2>> ${OPATH}/dataset2/time_info.txt
+
+echo "BWA time comsumption for dwgsim_100.bwa:" > ${OPATH}/dataset3/time_info.txt
+
+(time bwa mem -t 10 $GENOME ${DATA}/dataset3/dwgsim_100.bwa.read1.fastq ${DATA}/dataset3/dwgsim_100.bwa.read2.fastq) > ${OPATH}/dataset3/dwgsim_100.bwa.sam 2>> ${OPATH}/dataset3/time_info.txt
+
+
