@@ -1,0 +1,24 @@
+#PBS -N HW1-2_FASTQC
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=10:00:00
+#PBS -S /bin/bash
+#PBS -q swxx_1
+
+cd /public/home/panxq/BME1063/BME1063_HW1/data/dataset1
+for name in *.fastq
+do
+fastqc $name -o /public/home/panxq/BME1063/BME1063_HW1/data/FASTQC
+done
+
+cd /public/home/panxq/BME1063/BME1063_HW1/data/dataset2
+for name in *.fastq
+do
+fastqc $name -o /public/home/panxq/BME1063/BME1063_HW1/data/FASTQC
+done
+
+cd /public/home/panxq/BME1063/BME1063_HW1/data/dataset3
+for name in *.fastq
+do
+fastqc $name -o /public/home/panxq/BME1063/BME1063_HW1/data/FASTQC
+done
+
