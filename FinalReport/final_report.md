@@ -90,4 +90,23 @@ The precision and recall is computed as follows:
 
 Both softwares shows a perfect recall rate while BWA has better precision in all cases.
 
+### mapping quality summary
+
+The mapping quality information is summarized by calling `dwgsim_eval`, which is a component of `dwgsim`. By running `script/3-map_quality_summary.sh`, tab-splitted summary files will be generated on `FinalReport/mapping_summary`
+
+The further analyzation and visualization is done by jupyter notebook `script/2-vidualization_analyzation.ipynb`
+
+The precision and recall is computed as follows:
+
+|software | dataset | precision | recall | Fscore |
+|---------|---------|-----------|--------|--------|
+|bwa|dataset0 | 0.930225 | 1.0 | 0.963852 | 
+| bowtie2 | dataset1 | 0.909904 | 1.0 | 0.952827 | 
+| bwa | dataset1 | 0.915926 | 1.0 | 0.956119 |
+| bowtie2 | dataset2 | 0.883572 | 1.0 | 0.938188 |
+| bwa | dataset2 | 0.923573 | 1.0 | 0.960268 |
+| bowtie2 | dataset3 | 0.900112 | 1.0 | 0.947430 | 
+
+Both softwares shows a perfect recall rate while BWA has better precision in all cases.
+
 ## Discussion
