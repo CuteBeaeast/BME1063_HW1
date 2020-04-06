@@ -1,0 +1,15 @@
+BWA time comsumption for dwgsim_50.bwa:
+[M::mem_process_seqs] Processed 200000 reads in 77.776 CPU sec, 7.928 real sec
+real	0m39.928s
+user	1m16.865s
+sys	0m9.790s
+BWA time comsumption for dwgsim_70.bwa:
+[M::mem_process_seqs] Processed 200000 reads in 69.628 CPU sec, 7.076 real sec
+real	0m33.470s
+user	1m8.898s
+sys	0m9.769s
+BWA time comsumption for dwgsim_100.bwa:
+[M::mem_process_seqs] Processed 200000 reads in 73.206 CPU sec, 7.412 real sec
+real	0m21.475s
+user	1m12.827s
+sys	0m9.093s

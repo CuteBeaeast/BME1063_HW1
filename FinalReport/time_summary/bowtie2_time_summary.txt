@@ -1,0 +1,12 @@
+Bowtie2 time comsumption for dwgsim_50.bwa:
+real	0m43.341s
+user	1m20.762s
+sys	0m7.191s
+Bowtie2 time comsumption for dwgsim_70.bwa:
+real	0m48.934s
+user	1m29.346s
+sys	0m6.935s
+Bowtie2 time comsumption for dwgsim_100.bwa:
+real	0m53.968s
+user	1m48.344s
+sys	0m7.367s
