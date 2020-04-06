@@ -34,6 +34,19 @@ qsub PBS/HW1-1_DataSimulation/HW1-1_DataSimulation.pbs
 | number of Ns in a read | maximum 0 |
 | stddev for base quality score | 50 |
 
+### DataQC
+
+To show the quality of the data simulated, fastqc was performed upon the data generated. To regenerate QC process, run pbs scripts on `PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs`
+
+```shell
+qsub PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs
+
+# for personal computers, run as shell script:
+# bash PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs
+```
+
+The QC result can be found on `FinalReport/FASTQC`, all simulated data shows good quality.
+
 ## Results
 
 ## Discussion
