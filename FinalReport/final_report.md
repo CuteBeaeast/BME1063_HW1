@@ -69,6 +69,6 @@ The running time (user time) of two softwares are as follows:
 
 Using code in `script/2-vidualization_analyzation.ipynb`, a visualization can be generated as follows:
 
-
+![time comparison](images/time_comparison.png)
 
 ## Discussion
