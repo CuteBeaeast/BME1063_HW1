@@ -36,7 +36,7 @@ qsub PBS/HW1-1_DataSimulation/HW1-1_DataSimulation.pbs
 
 ### DataQC
 
-To show the quality of the data simulated, fastqc was performed upon the data generated. To regenerate QC process, run pbs scripts on `PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs`
+To show the quality of the data simulated, fastqc was performed upon the data generated. To regenerate QC process, run pbs script `PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs`
 
 ```shell
 qsub PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs
@@ -48,5 +48,27 @@ qsub PBS/HW1-2_FASTQC/HW1-2_FASTQC.pbs
 The QC result can be found on `FinalReport/FASTQC`, all simulated data shows good quality.
 
 ## Results
+
+Simulated data is aligned to reference genome `hg38` with bwa and bowtie2. Both softwares use a pre-index strategy to speed up the alignment process. For `bwa`, the index is generated using 10-core, 32 Gb ram on HPC. For `bowtie2`, the index is downloaded from the official website.
+
+### Time summary
+
+Time summary is extracted by a script `script/1-time_summary.sh`
+
+```shell
+bash script/1-time_summary.sh 
+```
+
+The running time (user time) of two softwares are as follows: 
+
+| dataset | BWA time | Bowtie2 time |
+|---------|----------|--------------|
+| dataset1 | 1m17s   | 1m21s        |
+| dataset2 | 1m9s    | 1m29s        |
+| dataset3 | 1m13s   | 1m48s        |
+
+Using code in `script/2-vidualization_analyzation.ipynb`, a visualization can be generated as follows:
+
+
 
 ## Discussion
