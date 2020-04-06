@@ -1,0 +1,25 @@
+#PBS -N HW1-3.3_Alignment_Bowtie2
+#PBS -l nodes=1:ppn=10
+#PBS -l walltime=100:00:00
+#PBS -l mem=32G
+#PBS -S /bin/bash
+#PBS -q swxx_1
+
+GENOME=/public/home/panxq/share/ref/GRCh28_Bowtie2/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna.bowtie_index
+DATA=/public/home/panxq/BME1063/BME1063_HW1/data
+OPATH=/public/home/panxq/BME1063/BME1063_HW1/data/bowtie2_result
+
+
+echo "Bowtie2 time comsumption for dwgsim_50.bwa:" > ${OPATH}/dataset1/time_info.txt
+
+(time bowtie2 -p 10 -x ${GENOME} -1 ${DATA}/dataset1/dwgsim_50.bwa.read1.fastq -2 ${DATA}/dataset1/dwgsim_50.bwa.read2.fastq -S ${OPATH}/dataset1/dwgsim_50.bwa.sam) 2>> ${OPATH}/dataset1/time_info.txt
+
+
+echo "Bowtie2 time comsumption for dwgsim_70.bwa:" > ${OPATH}/dataset2/time_info.txt
+
+(time bowtie2 -p 10 -x ${GENOME} -1 ${DATA}/dataset2/dwgsim_70.bwa.read1.fastq -2 ${DATA}/dataset2/dwgsim_70.bwa.read2.fastq -S ${OPATH}/dataset2/dwgsim_70.bwa.sam) 2>> ${OPATH}/dataset2/time_info.txt
+
+
+echo "Bowtie2 time comsumption for dwgsim_100.bwa:" > ${OPATH}/dataset3/time_info.txt
+
+(time bowtie2 -p 10 -x ${GENOME} -1 ${DATA}/dataset3/dwgsim_100.bwa.read1.fastq -2 ${DATA}/dataset3/dwgsim_100.bwa.read2.fastq -S ${OPATH}/dataset3/dwgsim_100.bwa.sam) 2>> ${OPATH}/dataset3/time_info.txt
