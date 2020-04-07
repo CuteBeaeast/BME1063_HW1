@@ -69,7 +69,7 @@ The running time (user time) of two softwares are as follows:
 
 Using code in `script/2-vidualization_analyzation.ipynb`, a visualization can be generated as follows:
 
-![time comparison](images/time_comparison.png)
+![time comparison](images/time_comparison.svg)
 
 ### mapping quality summary
 
@@ -108,5 +108,21 @@ The precision and recall is computed as follows:
 | bowtie2 | dataset3 | 0.900112 | 0.999278 | 0.9471060 | 
 
 Generally, bwa does a better job than bowtie2.
+
+### Cumulative precision and recall
+
+Since both software provide with mapping a mapping quality score, it is informative to see the mapping quality with some mapping quality score threshold. Here a cumulative precision and recall was defined as follows:
+
+$$
+\mbox{Cumulative precision} = \frac{\mbox{TP considering cases with score higher than threshold}}{\mbox{TP + FP considering cases with score higher than threshold}} 
+$$
+
+$$
+\mbox{Cumulative recall} = \frac{\mbox{TP considering cases with score higher than threshold}}{\mbox{TP + FN considering cases with score higher than threshold}}
+$$
+
+The following figure visualizes the cumulative precision and recall of two softwares. Note that different softwares have different quality score system, and thus quality scores produced by different softwares cannot be compared with each other.
+
+![](images/cumulative_precision_recall.svg)
 
 ## Discussion
