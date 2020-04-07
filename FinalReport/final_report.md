@@ -71,6 +71,8 @@ Using code in `script/2-vidualization_analyzation.ipynb`, a visualization can be
 
 ![time comparison](images/time_comparison.svg)
 
+As is shown above, BWA and bowtie2 have a similar running time for dataset1. However, as the read length getting longer, BWA running time stays constant while bowtie2 require more time to perform alignment.
+
 ### mapping quality summary
 
 The mapping quality information is summarized by calling `dwgsim_eval`, which is a component of `dwgsim`. By running `script/3-map_quality_summary.sh`, tab-splitted summary files will be generated on `FinalReport/mapping_summary`
