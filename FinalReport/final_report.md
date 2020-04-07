@@ -101,12 +101,12 @@ The precision and recall is computed as follows:
 |software | dataset | precision | recall | Fscore |
 |---------|---------|-----------|--------|--------|
 |bwa|dataset0 | 0.930225 | 1.0 | 0.963852 | 
-| bowtie2 | dataset1 | 0.909904 | 1.0 | 0.952827 | 
+| bowtie2 | dataset1 | 0.909904 | 0.999397 | 0.952553 | 
 | bwa | dataset1 | 0.915926 | 1.0 | 0.956119 |
-| bowtie2 | dataset2 | 0.883572 | 1.0 | 0.938188 |
+| bowtie2 | dataset2 | 0.883572 | 0.998894 | 0.937701 |
 | bwa | dataset2 | 0.923573 | 1.0 | 0.960268 |
-| bowtie2 | dataset3 | 0.900112 | 1.0 | 0.947430 | 
+| bowtie2 | dataset3 | 0.900112 | 0.999278 | 0.9471060 | 
 
-Both softwares shows a perfect recall rate while BWA has better precision in all cases.
+Generally, bwa does a better job than bowtie2.
 
 ## Discussion
