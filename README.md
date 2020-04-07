@@ -3,6 +3,8 @@ The first home work of BME1063
 
 For final report, please read `/FinalReport/final_report.pdf`
 
+The git repository `https://github.com/CuteBeaeast/BME1063_HW1` will be made public after the deadline.
+
 ## file description
 
 * `/HW_info` contains homework criteria released by the instructor.
